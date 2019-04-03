@@ -43,6 +43,7 @@ Want so add an event? Send a [pull request](contributing.md) or send me a tweet 
 ## April
 - 4 - [Oracle Code](https://developer.oracle.com/code/rome-april-2019) - Roma - Oracle-centered event.
 - 4-5 - [DroidCon](https://it.droidcon.com/2019/it) - Torino - Italy’s biggest Android Event.
+- 11 - [Meetup C++](https://conoscerelinux.org/courses/meetupcpp_apr19/) - Modena - Real-time communication using WebRTC in C++.
 - 13 - [Voxxed](https://voxxeddays.com/milan/) - Milano - Developers Conference (mainly Java-related).
 - 13 - [DevFest](https://devfest.gdgpisa.it/) - Pisa - Conference about Google-related technologies.
 - 27 - [Global Azure Bootcamp](https://global.azurebootcamp.net/locations) - Torino/Milano/Verona/Caserta - Azure and Cloud Computing.
