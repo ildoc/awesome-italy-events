@@ -41,6 +41,7 @@ Want so add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 22-23 - [CodeMotion](https://events.codemotion.com/conferences/rome/2019/) - Roma - Biggest tech conference in Italy.
 
 ## April
+- 4 - [Oracle Code](https://developer.oracle.com/code/rome-april-2019) - Roma - Oracle-centered event.
 - 4-5 - [DroidCon](https://it.droidcon.com/2019/it) - Torino - Italy’s biggest Android Event.
 - 13 - [Voxxed](https://voxxeddays.com/milan/) - Milano - Developers Conference (mainly Java-related).
 - 13 - [DevFest](https://devfest.gdgpisa.it/) - Pisa - Conference about Google-related technologies.
