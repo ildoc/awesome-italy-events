@@ -48,6 +48,7 @@ Want so add an event? Send a [pull request](contributing.md) or send me a tweet 
 
 ## May
 - 2-5 - [PyCon X](https://www.pycon.it/) - Firenze - Python's national conference.
+- 10-12 - [Level Up](http://www.lvlup.it/) - Roma - International developer conference on video games.
 
 ## June
 - 21 - [ServerlessDays 2019](https://milan.serverlessdays.io/) - Milano - Developer-oriented conference about serverless technologies.
