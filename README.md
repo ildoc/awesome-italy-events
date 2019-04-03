@@ -34,6 +34,7 @@ Want so add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 28 - [Hash Code 2019](https://www.meetup.com/GDG-Milano/events/258304715/) - Milano - Hackaton.
 
 ## March
+- 7-8 - [Incontro DevOps 2019](https://2019.incontrodevops.it/) - Bologna - Conference about DevOps, Continuous Delivery, Cloud, Microservices. 
 - 11 - [DevMarche](http://dev.marche.it/eventi/2019/03/06/introduzione-allo-unit-testing-ancona-6-marzo-2019/) - Ancona - Unit testing introduction.
 - 12 - [AWS Summit](https://aws.amazon.com/it/events/summits/milan/) - Milano - Yearly Amazon Web Services cloud event.
 - 14-15 - [CSSDay 2019](https://2019.cssday.it/) - Faenza - CSS dedicated conference.
@@ -52,12 +53,15 @@ Want so add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 21 - [ServerlessDays 2019](https://milan.serverlessdays.io/) - Milano - Developer-oriented conference about serverless technologies.
 
 ## July
+- 29-31 - [CSECI 2019](http://www.cseci.org/) - Roma - International Conference on Software Engineering and Computational Intelligence.
 
 ## August
 
 ## September
+- 20 - [Scala Italy 2019](http://2018.scala-italy.it/) - Bologna - Yearly conference on the Scala programming language.
 
 ## October
+- 4 - [ReactJsDay 2019](https://www.reactjsday.it/) - Verona - React conference
 - 24-25 - [CodeMotion](https://events.codemotion.com/conferences/milan/2019/) - Milano - Biggest tech conference in Italy.
 
 ## November
