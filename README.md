@@ -2,7 +2,7 @@
 
 > A curated list of Awesome Events in 🇮🇹
 
-This list contains awesome (tech related) events happening (and are mostly recurring) in Italy like: conferences, meetups, workshops and parties 🎉 
+This list contains awesome (tech related) events happening in Italy like: conferences, meetups, workshops and parties 🎉 
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 - [What is an awesome list?](https://github.com/sindresorhus/awesome)
