@@ -76,6 +76,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 10-11 - [phpDay](https://2019.phpday.it/) - Verona - PHP's national conference.
 - 10-12 - [Level Up](http://www.lvlup.it/) - Roma - International developer conference on video games.
 - 14-15 [ItaliaSec](https://cyberseries.io/italiasec/) - Roma - This groundbreaking summit is designed for senior security leaders.
+- 17 - [PGDay.IT](https://www.eventbee.com/v/2019pgdayit#/tickets) - Bologna - La conferenza italiana dedicata a PostgreSQL.
 - 17-18 - [WordCamp Bari 2019](https://2019.bari.wordcamp.org/) - Bari - Everything about WordPress.
 - 23 - [Cloudia](https://www.cloudia.pcsystem.it/) - Lucca - Cybersecurity, cryptography, pentesting event.
 - 29 - [Sicurezza ICT Soiel](https://soiel.it/eventi/2019/sicurezza-2019-parma/area-visitatori/contenuti/) - Parma - Security, compliance and business continuity.
