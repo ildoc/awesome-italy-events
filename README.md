@@ -63,6 +63,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 
 ## June
 - 6-7 - [e-privacy XXV](https://e-privacy.winstonsmith.org/e-privacy-XXV.html) - Torino - Privacy focused events about social scoring and profiling.
+- 14-15 - [Angular Day](https://2019.angularday.it/) - Verona - Angular's national conference.
 - 21 - [ServerlessDays 2019](https://milan.serverlessdays.io/) - Milano - Developer-oriented conference about serverless technologies.
 
 ## July
@@ -72,6 +73,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 
 ## September
 - 20 - [Scala Italy 2019](http://2018.scala-italy.it/) - Bologna - Yearly conference on the Scala programming language.
+- 26-27 - [NodeJS Italian Conference](https://2018.nodejsconf.it/) - Verona - NodeJS's national conference.
 - 28 - [RomHack](https://www.romhack.io/) - Roma - Cybersecurity convention.
 
 ## October
