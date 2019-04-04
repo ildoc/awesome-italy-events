@@ -45,6 +45,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 1-2 - [QtDay 2019](https://www.qtday.it/) - Firenze - The unique Italian conference about Qt.
 - 4 - [Oracle Code](https://developer.oracle.com/code/rome-april-2019) - Roma - Oracle-centered event.
 - 4-5 - [DroidCon](https://it.droidcon.com/2019/it) - Torino - Italy’s biggest Android Event.
+- 5-6 - [WordCamp Torino 2019](https://2019.torino.wordcamp.org/) - Torino - Everything about WordPress.
 - 6 - [SQL Start! 2019](https://www.eventbrite.it/e/biglietti-sql-start-2019-56165372140) - Ancona - SQL Server talks for DBAs, Devs and Data Analysts.
 - 10-11 - [RubyDay 2019](https://2019.rubyday.it/) - Verona - Ruby's national conference.
 - 11 - [Cloudia](https://www.cloudia.pcsystem.it/) - Firenze - Cybersecurity, cryptography, pentesting event.
@@ -62,6 +63,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 8-9 - [jsday 2019](https://2019.jsday.it/) - Verona - Javascript's international conference.
 - 10-11 - [phpDay](https://2019.phpday.it/) - Verona - PHP's national conference.
 - 10-12 - [Level Up](http://www.lvlup.it/) - Roma - International developer conference on video games.
+- 17-18 - [WordCamp Bari 2019](https://2019.bari.wordcamp.org/) - Bari - Everything about WordPress.
 - 23 - [Cloudia](https://www.cloudia.pcsystem.it/) - Lucca - Cybersecurity, cryptography, pentesting event.
 - 30-June 2 - [Hackmeeting](https://www.hackmeeting.org/hackit19/) - Firenze - Italian underground digital communities.
 
