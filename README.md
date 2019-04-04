@@ -65,6 +65,7 @@ Want so add an event? Send a [pull request](contributing.md) or send me a tweet 
 
 ## September
 - 20 - [Scala Italy 2019](http://2018.scala-italy.it/) - Bologna - Yearly conference on the Scala programming language.
+- 28 - [RomHack](https://www.romhack.io/) - Roma - Cybersecurity convention.
 
 ## October
 - 4 - [ReactJsDay 2019](https://www.reactjsday.it/) - Verona - React conference
