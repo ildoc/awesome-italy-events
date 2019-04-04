@@ -58,6 +58,7 @@ Want so add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 30-June 2 - [Hackmeeting](https://www.hackmeeting.org/hackit19/) - Firenze - Italian underground digital communities.
 
 ## June
+- 6-7 - [e-privacy XXV](https://e-privacy.winstonsmith.org/e-privacy-XXV.html) - Torino - Privacy focused events about social scoring and profiling.
 - 21 - [ServerlessDays 2019](https://milan.serverlessdays.io/) - Milano - Developer-oriented conference about serverless technologies.
 
 ## July
