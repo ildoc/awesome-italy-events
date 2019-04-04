@@ -51,6 +51,7 @@ Want so add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 27 - [Global Azure Bootcamp](https://global.azurebootcamp.net/locations) - Torino/Milano/Verona/Caserta - Azure and Cloud Computing.
 
 ## May
+- 2-5 - [HackInBoat](https://hackinboat.it/) - Genova/Barcellona/Marsiglia - Hacking while cruising!
 - 2-5 - [PyCon X](https://www.pycon.it/) - Firenze - Python's national conference.
 - 10-12 - [Level Up](http://www.lvlup.it/) - Roma - International developer conference on video games.
 - 30-June 2 - [Hackmeeting](https://www.hackmeeting.org/hackit19/) - Firenze - Italian underground digital communities
