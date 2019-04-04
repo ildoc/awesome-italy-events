@@ -111,7 +111,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 24-25 - [CodeMotion](https://events.codemotion.com/conferences/milan/2019/) - Milano - Biggest tech conference in Italy.
 
 ## November
-- 7-8 - [ContainerDay](https://www.containerday.it/) - Verona - The italian conference dedicated to virtualization best-practices.
+- 7-8 - [ContainerDay](https://www.containerday.it/) - Bologna - The italian conference dedicated to virtualization best-practices.
 - 28-29 - [LaravelDay](http://www.laravelday.it/) - Verona - The italian conference dedicated to Laravel developers.
 
 ## December
