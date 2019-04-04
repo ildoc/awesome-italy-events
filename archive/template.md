@@ -1,8 +1,8 @@
-# Awesome Events in Italy (20XX Edition) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Events in Italy (2019 Edition) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of Awesome Events in 🇮🇹
 
-This list contains awesome (tech related) events happening (and are mostly recurring) in Italy like: conferences, meetups, workshops and parties 🎉 
+This list contains awesome (tech related) events happening in Italy like: conferences, meetups, workshops and parties 🎉 
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 - [What is an awesome list?](https://github.com/sindresorhus/awesome)
@@ -10,7 +10,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ---
 
-Want so add an event? Send a [pull request](contributing.md) or send me a tweet [@il_doc](https://twitter.com/il_doc).
+Want to add an event? Send a [pull request](contributing.md) or send me a tweet [@il_doc](https://twitter.com/il_doc).
 
 ## Contents
 - [January](#january)
