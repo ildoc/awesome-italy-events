@@ -75,7 +75,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 28 - [RomHack](https://www.romhack.io/) - Roma - Cybersecurity convention.
 
 ## October
-- 4 - [ReactJsDay 2019](https://www.reactjsday.it/) - Verona - React conference.
+- 4 - [ReactJsDay 2019](https://www.reactjsday.it/) - Verona - React's national conference.
 - 24-25 - [CodeMotion](https://events.codemotion.com/conferences/milan/2019/) - Milano - Biggest tech conference in Italy.
 
 ## November
