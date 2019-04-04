@@ -45,6 +45,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 1-2 - [QtDay 2019](https://www.qtday.it/) - Firenze - The unique Italian conference about Qt.
 - 4 - [Oracle Code](https://developer.oracle.com/code/rome-april-2019) - Roma - Oracle-centered event.
 - 4-5 - [DroidCon](https://it.droidcon.com/2019/it) - Torino - Italy’s biggest Android Event.
+- 10-11 - [RubyDay 2019](https://2019.rubyday.it/) - Verona - Ruby's national conference.
 - 11 - [Meetup C++](https://conoscerelinux.org/courses/meetupcpp_apr19/) - Modena - Real-time communication using WebRTC in C++.
 - 13 - [Voxxed](https://voxxeddays.com/milan/) - Milano - Developers Conference (mainly Java-related).
 - 13 - [DevFest](https://devfest.gdgpisa.it/) - Pisa - Conference about Google-related technologies.
