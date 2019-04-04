@@ -47,6 +47,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 4-5 - [DroidCon](https://it.droidcon.com/2019/it) - Torino - Italy’s biggest Android Event.
 - 10-11 - [RubyDay 2019](https://2019.rubyday.it/) - Verona - Ruby's national conference.
 - 11 - [Meetup C++](https://conoscerelinux.org/courses/meetupcpp_apr19/) - Modena - Real-time communication using WebRTC in C++.
+- 12 - [VueDay 2019](https://2019.vueday.it/) - Verona - Vue's national conference
 - 13 - [Voxxed](https://voxxeddays.com/milan/) - Milano - Developers Conference (mainly Java-related).
 - 13 - [DevFest](https://devfest.gdgpisa.it/) - Pisa - Conference about Google-related technologies.
 - 27 - [Global Azure Bootcamp](https://global.azurebootcamp.net/locations) - Torino/Milano/Verona/Caserta - Azure and Cloud Computing.
