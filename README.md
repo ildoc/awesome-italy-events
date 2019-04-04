@@ -29,6 +29,7 @@ Want so add an event? Send a [pull request](contributing.md) or send me a tweet 
 ---
 
 ## January
+- 25-27 - [Global Game Jam](https://globalgamejam.org/news/ggj19-diversifiers) - (Multiple locations)[https://globalgamejam.org/2019/jam-sites?title=&country=IT] - World's largest game jam event.
 
 ## Februrary
 - 28 - [Hash Code 2019](https://www.meetup.com/GDG-Milano/events/258304715/) - Milano - Hackaton.
