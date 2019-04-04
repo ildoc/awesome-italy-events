@@ -46,6 +46,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 4 - [Oracle Code](https://developer.oracle.com/code/rome-april-2019) - Roma - Oracle-centered event.
 - 4-5 - [DroidCon](https://it.droidcon.com/2019/it) - Torino - Italy’s biggest Android Event.
 - 10-11 - [RubyDay 2019](https://2019.rubyday.it/) - Verona - Ruby's national conference.
+- 11 - [Cloudia](https://www.cloudia.pcsystem.it/) - Firenze - Cybersecurity, cryptography, pentesting event.
 - 11 - [Meetup C++](https://conoscerelinux.org/courses/meetupcpp_apr19/) - Modena - Real-time communication using WebRTC in C++.
 - 12 - [VueDay 2019](https://2019.vueday.it/) - Verona - Vue's national conference.
 - 13 - [Voxxed](https://voxxeddays.com/milan/) - Milano - Developers Conference (mainly Java-related).
@@ -59,12 +60,14 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 8-9 - [jsday 2019](https://2019.jsday.it/) - Verona - Javascript's international conference.
 - 10-11 - [phpDay](https://2019.phpday.it/) - Verona - PHP's national conference.
 - 10-12 - [Level Up](http://www.lvlup.it/) - Roma - International developer conference on video games.
+- 23 - [Cloudia](https://www.cloudia.pcsystem.it/) - Lucca - Cybersecurity, cryptography, pentesting event.
 - 30-June 2 - [Hackmeeting](https://www.hackmeeting.org/hackit19/) - Firenze - Italian underground digital communities.
 
 ## June
 - 6-7 - [e-privacy XXV](https://e-privacy.winstonsmith.org/e-privacy-XXV.html) - Torino - Privacy focused events about social scoring and profiling.
 - 14-15 - [Angular Day](https://2019.angularday.it/) - Verona - Angular's national conference.
 - 21 - [ServerlessDays 2019](https://milan.serverlessdays.io/) - Milano - Developer-oriented conference about serverless technologies.
+- 25 - [Cloudia](https://www.cloudia.pcsystem.it/) - Livorno - Cybersecurity, cryptography, pentesting event.
 
 ## July
 - 29-31 - [CSECI 2019](http://www.cseci.org/) - Roma - International Conference on Software Engineering and Computational Intelligence.
