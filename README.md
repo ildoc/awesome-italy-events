@@ -10,7 +10,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ---
 
-Want so add an event? Send a [pull request](contributing.md) or send me a tweet [@il_doc](https://twitter.com/il_doc).
+Want to add an event? Send a [pull request](contributing.md) or send me a tweet [@il_doc](https://twitter.com/il_doc).
 
 ## Contents
 - [January](#january)
