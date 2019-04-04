@@ -56,6 +56,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 2-4 - [SoCraTes IT 2019](http://www.socrates-conference.it/) - Rimini - Software Craftsmanship and Testing Conference.
 - 2-5 - [HackInBoat](https://hackinboat.it/) - Genova/Barcellona/Marsiglia - Hacking while cruising!
 - 2-5 - [PyCon X](https://www.pycon.it/) - Firenze - Python's national conference.
+- 8-9 - [jsday 2019](https://2019.jsday.it/) - Verona - Javascript's international conference.
 - 10-11 - [phpDay](https://2019.phpday.it/) - Verona - PHP's national conference.
 - 10-12 - [Level Up](http://www.lvlup.it/) - Roma - International developer conference on video games.
 - 30-June 2 - [Hackmeeting](https://www.hackmeeting.org/hackit19/) - Firenze - Italian underground digital communities.
