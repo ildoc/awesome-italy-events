@@ -29,6 +29,7 @@ Want so add an event? Send a [pull request](contributing.md) or send me a tweet 
 ---
 
 ## January
+- 25-27 - [Global Game Jam](https://globalgamejam.org/news/ggj19-diversifiers) - (Multiple locations)[https://globalgamejam.org/2019/jam-sites?title=&country=IT] - World's largest game jam event.
 
 ## Februrary
 - 28 - [Hash Code 2019](https://www.meetup.com/GDG-Milano/events/258304715/) - Milano - Hackaton.
@@ -51,6 +52,7 @@ Want so add an event? Send a [pull request](contributing.md) or send me a tweet 
 
 ## May
 - 2-4 - [SoCraTes IT 2019](http://www.socrates-conference.it/) - Rimini - Software Craftsmanship and Testing Conference
+- 2-5 - [HackInBoat](https://hackinboat.it/) - Genova/Barcellona/Marsiglia - Hacking while cruising!
 - 2-5 - [PyCon X](https://www.pycon.it/) - Firenze - Python's national conference.
 - 10-12 - [Level Up](http://www.lvlup.it/) - Roma - International developer conference on video games.
 - 30-June 2 - [Hackmeeting](https://www.hackmeeting.org/hackit19/) - Firenze - Italian underground digital communities
@@ -65,6 +67,7 @@ Want so add an event? Send a [pull request](contributing.md) or send me a tweet 
 
 ## September
 - 20 - [Scala Italy 2019](http://2018.scala-italy.it/) - Bologna - Yearly conference on the Scala programming language.
+- 28 - [RomHack](https://www.romhack.io/) - Roma - Cybersecurity convention.
 
 ## October
 - 4 - [ReactJsDay 2019](https://www.reactjsday.it/) - Verona - React conference
