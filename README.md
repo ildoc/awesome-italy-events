@@ -51,11 +51,11 @@ Want so add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 27 - [Global Azure Bootcamp](https://global.azurebootcamp.net/locations) - Torino/Milano/Verona/Caserta - Azure and Cloud Computing.
 
 ## May
-- 2-4 - [SoCraTes IT 2019](http://www.socrates-conference.it/) - Rimini - Software Craftsmanship and Testing Conference
+- 2-4 - [SoCraTes IT 2019](http://www.socrates-conference.it/) - Rimini - Software Craftsmanship and Testing Conference.
 - 2-5 - [HackInBoat](https://hackinboat.it/) - Genova/Barcellona/Marsiglia - Hacking while cruising!
 - 2-5 - [PyCon X](https://www.pycon.it/) - Firenze - Python's national conference.
 - 10-12 - [Level Up](http://www.lvlup.it/) - Roma - International developer conference on video games.
-- 30-June 2 - [Hackmeeting](https://www.hackmeeting.org/hackit19/) - Firenze - Italian underground digital communities
+- 30-June 2 - [Hackmeeting](https://www.hackmeeting.org/hackit19/) - Firenze - Italian underground digital communities.
 
 ## June
 - 21 - [ServerlessDays 2019](https://milan.serverlessdays.io/) - Milano - Developer-oriented conference about serverless technologies.
@@ -70,7 +70,7 @@ Want so add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 28 - [RomHack](https://www.romhack.io/) - Roma - Cybersecurity convention.
 
 ## October
-- 4 - [ReactJsDay 2019](https://www.reactjsday.it/) - Verona - React conference
+- 4 - [ReactJsDay 2019](https://www.reactjsday.it/) - Verona - React conference.
 - 24-25 - [CodeMotion](https://events.codemotion.com/conferences/milan/2019/) - Milano - Biggest tech conference in Italy.
 
 ## November
