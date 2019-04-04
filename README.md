@@ -44,7 +44,12 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 11 - [DevMarche](http://dev.marche.it/eventi/2019/03/06/introduzione-allo-unit-testing-ancona-6-marzo-2019/) - Ancona - Unit testing introduction.
 - 12 - [AWS Summit](https://aws.amazon.com/it/events/summits/milan/) - Milano - Yearly Amazon Web Services cloud event.
 - 14-15 - [CSSDay 2019](https://2019.cssday.it/) - Faenza - CSS dedicated conference.
+- 19 - [IT Infrastructure Day](https://soiel.it/eventi/2019/IT-Infrastructure-Day-Milano-Marzo-2019/area-visitatori/contenuti/) - Milano - Conference about datacenters, cloud, HPC.
+- 19 - [Trend Micro Cyber Conference](http://go.trendmicro.com/events/cyberconference2019/) - Milano - Trend Micro conference about new cyber security paradigms.
+- 21 - [Trend Micro Cyber Conference](http://go.trendmicro.com/events/cyberconference2019/) - Roma - Trend Micro conference about new cyber security paradigms.
 - 22-23 - [CodeMotion](https://events.codemotion.com/conferences/rome/2019/) - Roma - Biggest tech conference in Italy.
+- 27 - [Datacenter of the Future](http://www.cvent.com/events/datacenter-of-the-future-2019-italy/event-summary-3d578818e0594ac5a639cc87968e4e95.aspx) - Milano - Evolving IT infrastructure for digital agility.
+- 28 - [CloudConf 2019](https://2019.cloudconf.it/) - Torino - European most important conference about the cloud.
 
 ## April
 - 1-2 - [QtDay 2019](https://www.qtday.it/) - Firenze - The unique Italian conference about Qt.
