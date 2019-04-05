@@ -31,7 +31,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 ## January
 - 25-27 - [Global Game Jam](https://globalgamejam.org/news/ggj19-diversifiers) - [Multiple locations](https://globalgamejam.org/2019/jam-sites?title=&country=IT) - World's largest game jam event.
 
-## Februrary
+## February
 - 5 - [Self-driving Data Center](https://web.cvent.com/event/2f2299a5-804b-428d-93a4-80fdf4629722/websitePage:f5f7ab14-1def-48c6-9bdb-099fc8e04d64) - Bologna - Virtual nets for agile business.
 - 6 - [Self-driving Data Center](https://web.cvent.com/event/2f2299a5-804b-428d-93a4-80fdf4629722/websitePage:e8974b97-a74e-42bc-843a-8a1a9637de0c) - Firenze - Virtual nets for agile business.
 - 6 - [Forum Software Industriale](https://forumsoftwareindustriale.it/) - Milano - Software technology evolution in 4.0 industry.
