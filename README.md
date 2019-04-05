@@ -64,7 +64,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 13 - [Voxxed](https://voxxeddays.com/milan/) - Milano - Developers Conference (mainly Java-related).
 - 13 - [DevFest](https://devfest.gdgpisa.it/) - Pisa - Conference about Google-related technologies.
 - 16 - [Sicurezza ICT Soiel](https://soiel.it/eventi/2019/sicurezza-2019-roma/area-visitatori/contenuti/) - Roma - Security, compliance and business continuity.
-- 18 - [AWS Group Marche](https://www.meetup.com/AWS-User-Group-Marche/events/259802314/) - Ancona - First meetup of the Marche [AWS User Group](https://aws.amazon.com/developer/community/usergroups/europe/)
+- 18 - [AWS Group Marche](https://www.meetup.com/AWS-User-Group-Marche/events/259802314/) - Ancona - First meetup of the Marche [AWS User Group](https://aws.amazon.com/developer/community/usergroups/europe/).
 - 27 - [Global Azure Bootcamp](https://global.azurebootcamp.net/locations) - Torino/Milano/Verona/Caserta - Azure and Cloud Computing.
 
 ## May
