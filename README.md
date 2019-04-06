@@ -75,6 +75,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 8-9 - [jsday 2019](https://2019.jsday.it/) - Verona - Javascript's international conference.
 - 10-11 - [phpDay](https://2019.phpday.it/) - Verona - PHP's national conference.
 - 10-12 - [Level Up](http://www.lvlup.it/) - Roma - International developer conference on video games.
+- 10-12 - [Startup Weekend](http://communities.techstars.com/italy/milano-italy/startup-weekend/14456) - Milano - Startup hackaton competition.
 - 14-15 [ItaliaSec](https://cyberseries.io/italiasec/) - Roma - This groundbreaking summit is designed for senior security leaders.
 - 17 - [PGDay.IT](https://2019.pgday.it) - Bologna - PostgreSQL Italian conference.
 - 17-18 - [WordCamp Bari 2019](https://2019.bari.wordcamp.org/) - Bari - Everything about WordPress.
