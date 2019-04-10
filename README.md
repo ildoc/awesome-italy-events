@@ -98,6 +98,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 29-31 - [CSECI 2019](http://www.cseci.org/) - Roma - International Conference on Software Engineering and Computational Intelligence.
 
 ## August
+- 24-31 [DevFest Levante](https://devfestlevante.eu/) - Gallipoli - Conference about Google-related technologies.
 
 ## September
 - 20 - [Scala Italy 2019](http://2018.scala-italy.it/) - Bologna - Yearly conference on the Scala programming language.
