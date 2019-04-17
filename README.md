@@ -87,6 +87,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 ## June
 - 5-7 - [Kerning](https://2019.kerning.it/) - Faenza - The first international conference in Italy about web typography.
 - 6-7 - [e-privacy XXV](https://e-privacy.winstonsmith.org/e-privacy-XXV.html) - Torino - Privacy focused events about social scoring and profiling.
+- 8 - [Agile Venture](https://www.agileday.it/venture/2019/vimercate/) - Vimercate - Conference dedicated to Agile Methodologies.
 - 13-14 - [Annual Privacy Forum](https://privacyforum.eu/) - Roma - Annual conference about privacy.
 - 14-15 - [Angular Day](https://2019.angularday.it/) - Verona - Angular's national conference.
 - 15 - [Italian C++ conference](https://www.italiancpp.org) - Milano - Italian c++ conference.
