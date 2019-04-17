@@ -119,7 +119,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 
 ## November
 - 7-8 - [ContainerDay](https://www.containerday.it/) - Bologna - The italian conference dedicated to virtualization best-practices.
-- 8-9 - [Agile day(s)](https://www.agilemovement.it/) - Modena - Conference dedicated to Agile Methodologies.
+- 8-9 - [Agile day(s)](https://www.agileday.it/front/) - Modena - Conference dedicated to Agile Methodologies.
 - 28-29 - [LaravelDay](http://www.laravelday.it/) - Verona - The italian conference dedicated to Laravel developers.
 
 ## December
