@@ -98,6 +98,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 30-July 4 - [InfoWare 2019](https://www.iaria.org/conferences2019/InfoWare19.html) - Roma - Series of IT related conferences.
 
 ## July
+- 3 - [Working Software](https://workingsoftware.agilemovement.it) - Milano - Agile in software: for Devs, for Testers, for People.
 - 29-31 - [CSECI 2019](http://www.cseci.org/) - Roma - International Conference on Software Engineering and Computational Intelligence.
 
 ## August
