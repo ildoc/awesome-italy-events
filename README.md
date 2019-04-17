@@ -73,6 +73,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 2-5 - [PyCon X](https://www.pycon.it/) - Firenze - Python's national conference.
 - 5 - [ComputationWorld 2019](https://www.iaria.org/conferences2019/ComputationWorld19.html) - Venezia - Conference about advanced cloud computing.
 - 8-9 - [jsday 2019](https://2019.jsday.it/) - Verona - Javascript's international conference.
+- 10 - [Agile Venture](https://www.agileday.it/venture/2019/bolzano/) - Bolzano - Conference dedicated to Agile Methodologies.
 - 10-11 - [phpDay](https://2019.phpday.it/) - Verona - PHP's national conference.
 - 10-12 - [Level Up](http://www.lvlup.it/) - Roma - International developer conference on video games.
 - 10-12 - [Startup Weekend](http://communities.techstars.com/italy/milano-italy/startup-weekend/14456) - Milano - Startup hackaton competition.
