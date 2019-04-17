@@ -92,6 +92,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 14-15 - [Angular Day](https://2019.angularday.it/) - Verona - Angular's national conference.
 - 15 - [Italian C++ conference](https://www.italiancpp.org) - Milano - Italian c++ conference.
 - 18 - [Sicurezza ICT Soiel](https://soiel.it/eventi/2019/sicurezza-2019-padova/area-visitatori/contenuti/) - Padova - Security, compliance and business continuity.
+- 21 - [Agile O'Day](http://www.agilecommunitycampania.it/agile-oday-2019/) - Napoli - Conference dedicated to Agile Methodologies.
 - 21 - [ServerlessDays 2019](https://milan.serverlessdays.io/) - Milano - Developer-oriented conference about serverless technologies.
 - 25 - [Cloudia](https://www.cloudia.pcsystem.it/) - Livorno - Cybersecurity, cryptography, pentesting event.
 - 30-July 4 - [InfoWare 2019](https://www.iaria.org/conferences2019/InfoWare19.html) - Roma - Series of IT related conferences.
