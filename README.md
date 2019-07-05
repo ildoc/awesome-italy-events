@@ -112,6 +112,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 
 ## October
 - 4 - [ReactJsDay 2019](https://www.reactjsday.it/) - Verona - React's national conference.
+- 7 - [NG Rome](https://ngrome.io/) - Roma - Biggest Italian Angular Conference.
 - 16 - [Sicurezza ICT Soiel](https://soiel.it/eventi/2019/sicurezza-2019-bari/area-visitatori/contenuti/) - Bari - Security, compliance and business continuity.
 - 17-18 - [SymphonyDay](https://www.symfonyday.it/) - Verona - The italian conference dedicated to symphony developers.
 - 23-24 - [Wireless 2019](https://wirelesscommunication.expertconferences.org/) - Roma - Connect and communicate the trendz of technology.
