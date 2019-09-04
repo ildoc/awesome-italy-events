@@ -81,14 +81,17 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 
 ## September
 - 20 - [Scala Italy 2019](http://2018.scala-italy.it/) - Bologna - Yearly conference on the Scala programming language.
+- 20-21 - [WordCamp Catania 2019](https://2019.catania.wordcamp.org/) - Catania - Everything about WordPress.
 - 26-27 - [NodeJS Italian Conference](https://2018.nodejsconf.it/) - Verona - NodeJS's national conference.
 - 28 - [RomHack](https://www.romhack.io/) - Roma - Cybersecurity convention.
 
 ## October
 - 4 - [ReactJsDay 2019](https://www.reactjsday.it/) - Verona - React's national conference.
+- 11-12 - [WordCamp Verona 2019](https://2019.verona.wordcamp.org/) - Verona - Everything about WordPress.
 - 24-25 - [CodeMotion](https://events.codemotion.com/conferences/milan/2019/) - Milano - Biggest tech conference in Italy.
 
 ## November
+- 22-23 - [WordCamp Milano 2019](https://2019.milano.wordcamp.org/) - Milano - Everything about WordPress.
 
 ## December
 
