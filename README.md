@@ -31,7 +31,12 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 ## January
 - 25-27 - [Global Game Jam](https://globalgamejam.org/news/ggj19-diversifiers) - [Multiple locations](https://globalgamejam.org/2019/jam-sites?title=&country=IT) - World's largest game jam event.
 
-## Februrary
+## February
+- 5 - [Self-driving Data Center](https://web.cvent.com/event/2f2299a5-804b-428d-93a4-80fdf4629722/websitePage:f5f7ab14-1def-48c6-9bdb-099fc8e04d64) - Bologna - Virtual nets for agile business.
+- 6 - [Self-driving Data Center](https://web.cvent.com/event/2f2299a5-804b-428d-93a4-80fdf4629722/websitePage:e8974b97-a74e-42bc-843a-8a1a9637de0c) - Firenze - Virtual nets for agile business.
+- 6 - [Forum Software Industriale](https://forumsoftwareindustriale.it/) - Milano - Software technology evolution in 4.0 industry.
+- 12 - [Self-driving Data Center](https://web.cvent.com/event/2f2299a5-804b-428d-93a4-80fdf4629722/websitePage:3bf511cf-ea12-464b-888e-21ae7ccc1514) - Roma - Virtual nets for agile business.
+- 12 - [Sicurezza ICT Soiel](https://soiel.it/eventi/2019/sicurezza-2019-milano/area-visitatori/contenuti/) - Milano - Security, compliance and business continuity.
 - 28 - [Hash Code 2019](https://www.meetup.com/GDG-Milano/events/258304715/) - Milano - Hackaton.
 
 ## March
@@ -39,7 +44,12 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 11 - [DevMarche](http://dev.marche.it/eventi/2019/03/06/introduzione-allo-unit-testing-ancona-6-marzo-2019/) - Ancona - Unit testing introduction.
 - 12 - [AWS Summit](https://aws.amazon.com/it/events/summits/milan/) - Milano - Yearly Amazon Web Services cloud event.
 - 14-15 - [CSSDay 2019](https://2019.cssday.it/) - Faenza - CSS dedicated conference.
+- 19 - [IT Infrastructure Day](https://soiel.it/eventi/2019/IT-Infrastructure-Day-Milano-Marzo-2019/area-visitatori/contenuti/) - Milano - Conference about datacenters, cloud, HPC.
+- 19 - [Trend Micro Cyber Conference](http://go.trendmicro.com/events/cyberconference2019/) - Milano - Trend Micro conference about new cyber security paradigms.
+- 21 - [Trend Micro Cyber Conference](http://go.trendmicro.com/events/cyberconference2019/) - Roma - Trend Micro conference about new cyber security paradigms.
 - 22-23 - [CodeMotion](https://events.codemotion.com/conferences/rome/2019/) - Roma - Biggest tech conference in Italy.
+- 27 - [Datacenter of the Future](http://www.cvent.com/events/datacenter-of-the-future-2019-italy/event-summary-3d578818e0594ac5a639cc87968e4e95.aspx) - Milano - Evolving IT infrastructure for digital agility.
+- 28 - [CloudConf 2019](https://2019.cloudconf.it/) - Torino - European most important conference about the cloud.
 
 ## April
 - 1-2 - [QtDay 2019](https://www.qtday.it/) - Firenze - The unique Italian conference about Qt.
@@ -53,45 +63,68 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 12 - [VueDay 2019](https://2019.vueday.it/) - Verona - Vue's national conference.
 - 13 - [Voxxed](https://voxxeddays.com/milan/) - Milano - Developers Conference (mainly Java-related).
 - 13 - [DevFest](https://devfest.gdgpisa.it/) - Pisa - Conference about Google-related technologies.
-- 18 - [AWS Group Marche](https://www.meetup.com/AWS-User-Group-Marche/events/259802314/) - Ancona - First meetup of the Marche [AWS User Group](https://aws.amazon.com/developer/community/usergroups/europe/)
+- 16 - [Sicurezza ICT Soiel](https://soiel.it/eventi/2019/sicurezza-2019-roma/area-visitatori/contenuti/) - Roma - Security, compliance and business continuity.
+- 18 - [AWS Group Marche](https://www.meetup.com/AWS-User-Group-Marche/events/259802314/) - Ancona - First meetup of the Marche [AWS User Group](https://aws.amazon.com/developer/community/usergroups/europe/).
 - 27 - [Global Azure Bootcamp](https://global.azurebootcamp.net/locations) - Torino/Milano/Verona/Caserta - Azure and Cloud Computing.
 
 ## May
 - 2-4 - [SoCraTes IT 2019](http://www.socrates-conference.it/) - Rimini - Software Craftsmanship and Testing Conference.
 - 2-5 - [HackInBoat](https://hackinboat.it/) - Genova/Barcellona/Marsiglia - Hacking while cruising!
 - 2-5 - [PyCon X](https://www.pycon.it/) - Firenze - Python's national conference.
+- 5 - [ComputationWorld 2019](https://www.iaria.org/conferences2019/ComputationWorld19.html) - Venezia - Conference about advanced cloud computing.
 - 8-9 - [jsday 2019](https://2019.jsday.it/) - Verona - Javascript's international conference.
+- 10 - [Agile Venture](https://www.agileday.it/venture/2019/bolzano/) - Bolzano - Conference dedicated to Agile Methodologies.
 - 10-11 - [phpDay](https://2019.phpday.it/) - Verona - PHP's national conference.
 - 10-12 - [Level Up](http://www.lvlup.it/) - Roma - International developer conference on video games.
+- 10-12 - [Startup Weekend](http://communities.techstars.com/italy/milano-italy/startup-weekend/14456) - Milano - Startup hackaton competition.
+- 14-15 [ItaliaSec](https://cyberseries.io/italiasec/) - Roma - This groundbreaking summit is designed for senior security leaders.
+- 17 - [PGDay.IT](https://2019.pgday.it) - Bologna - PostgreSQL Italian conference.
 - 17-18 - [WordCamp Bari 2019](https://2019.bari.wordcamp.org/) - Bari - Everything about WordPress.
 - 23 - [Cloudia](https://www.cloudia.pcsystem.it/) - Lucca - Cybersecurity, cryptography, pentesting event.
+- 29 - [Sicurezza ICT Soiel](https://soiel.it/eventi/2019/sicurezza-2019-parma/area-visitatori/contenuti/) - Parma - Security, compliance and business continuity.
 - 30-June 2 - [Hackmeeting](https://www.hackmeeting.org/hackit19/) - Firenze - Italian underground digital communities.
 
 ## June
+- 5-7 - [Kerning](https://2019.kerning.it/) - Faenza - The first international conference in Italy about web typography.
 - 6-7 - [e-privacy XXV](https://e-privacy.winstonsmith.org/e-privacy-XXV.html) - Torino - Privacy focused events about social scoring and profiling.
+- 8 - [Agile Venture](https://www.agileday.it/venture/2019/vimercate/) - Vimercate - Conference dedicated to Agile Methodologies.
+- 13-14 - [Annual Privacy Forum](https://privacyforum.eu/) - Roma - Annual conference about privacy.
 - 14-15 - [Angular Day](https://2019.angularday.it/) - Verona - Angular's national conference.
-- 15 - [Italian c++ conference](https://www.italiancpp.org) - Milano - Italian c++ conference.
+- 15 - [Italian C++ conference](https://www.italiancpp.org) - Milano - Italian c++ conference.
+- 18 - [Sicurezza ICT Soiel](https://soiel.it/eventi/2019/sicurezza-2019-padova/area-visitatori/contenuti/) - Padova - Security, compliance and business continuity.
+- 21 - [Agile O'Day](http://www.agilecommunitycampania.it/agile-oday-2019/) - Napoli - Conference dedicated to Agile Methodologies.
 - 21 - [ServerlessDays 2019](https://milan.serverlessdays.io/) - Milano - Developer-oriented conference about serverless technologies.
 - 25 - [Cloudia](https://www.cloudia.pcsystem.it/) - Livorno - Cybersecurity, cryptography, pentesting event.
+- 30-July 4 - [InfoWare 2019](https://www.iaria.org/conferences2019/InfoWare19.html) - Roma - Series of IT related conferences.
 
 ## July
+- 3 - [Working Software](https://workingsoftware.agilemovement.it) - Milano - Agile in software: for Devs, for Testers, for People.
 - 29-31 - [CSECI 2019](http://www.cseci.org/) - Roma - International Conference on Software Engineering and Computational Intelligence.
 
 ## August
+- 24-31 [DevFest Levante](https://devfestlevante.eu/) - Gallipoli - Conference about Google-related technologies.
 
 ## September
 - 20 - [Scala Italy 2019](http://2018.scala-italy.it/) - Bologna - Yearly conference on the Scala programming language.
 - 20-21 - [WordCamp Catania 2019](https://2019.catania.wordcamp.org/) - Catania - Everything about WordPress.
+- 26 - [Sicurezza ICT Soiel](https://soiel.it/eventi/2019/sicurezza-2019-torino/area-visitatori/contenuti/) - Torino - Security, compliance and business continuity.
 - 26-27 - [NodeJS Italian Conference](https://2018.nodejsconf.it/) - Verona - NodeJS's national conference.
 - 28 - [RomHack](https://www.romhack.io/) - Roma - Cybersecurity convention.
 
 ## October
 - 4 - [ReactJsDay 2019](https://www.reactjsday.it/) - Verona - React's national conference.
+- 7 - [NG Rome](https://ngrome.io/) - Roma - Biggest Italian Angular Conference.
 - 11-12 - [WordCamp Verona 2019](https://2019.verona.wordcamp.org/) - Verona - Everything about WordPress.
+- 16 - [Sicurezza ICT Soiel](https://soiel.it/eventi/2019/sicurezza-2019-bari/area-visitatori/contenuti/) - Bari - Security, compliance and business continuity.
+- 17-18 - [SymphonyDay](https://www.symfonyday.it/) - Verona - The italian conference dedicated to symphony developers.
+- 23-24 - [Wireless 2019](https://wirelesscommunication.expertconferences.org/) - Roma - Connect and communicate the trendz of technology.
 - 24-25 - [CodeMotion](https://events.codemotion.com/conferences/milan/2019/) - Milano - Biggest tech conference in Italy.
 
 ## November
+- 7-8 - [ContainerDay](https://www.containerday.it/) - Bologna - The italian conference dedicated to virtualization best-practices.
+- 8-9 - [Agile day(s)](https://www.agileday.it/front/) - Modena - Conference dedicated to Agile Methodologies.
 - 22-23 - [WordCamp Milano 2019](https://2019.milano.wordcamp.org/) - Milano - Everything about WordPress.
+- 28-29 - [LaravelDay](http://www.laravelday.it/) - Verona - The italian conference dedicated to Laravel developers.
 
 ## December
 
