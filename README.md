@@ -106,6 +106,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 
 ## September
 - 20 - [Scala Italy 2019](http://2018.scala-italy.it/) - Bologna - Yearly conference on the Scala programming language.
+- 20-21 - [WordCamp Catania 2019](https://2019.catania.wordcamp.org/) - Catania - Everything about WordPress.
 - 26 - [Sicurezza ICT Soiel](https://soiel.it/eventi/2019/sicurezza-2019-torino/area-visitatori/contenuti/) - Torino - Security, compliance and business continuity.
 - 26-27 - [NodeJS Italian Conference](https://2018.nodejsconf.it/) - Verona - NodeJS's national conference.
 - 28 - [RomHack](https://www.romhack.io/) - Roma - Cybersecurity convention.
@@ -113,6 +114,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 ## October
 - 4 - [ReactJsDay 2019](https://www.reactjsday.it/) - Verona - React's national conference.
 - 7 - [NG Rome](https://ngrome.io/) - Roma - Biggest Italian Angular Conference.
+- 11-12 - [WordCamp Verona 2019](https://2019.verona.wordcamp.org/) - Verona - Everything about WordPress.
 - 16 - [Sicurezza ICT Soiel](https://soiel.it/eventi/2019/sicurezza-2019-bari/area-visitatori/contenuti/) - Bari - Security, compliance and business continuity.
 - 17-18 - [SymphonyDay](https://www.symfonyday.it/) - Verona - The italian conference dedicated to symphony developers.
 - 23-24 - [Wireless 2019](https://wirelesscommunication.expertconferences.org/) - Roma - Connect and communicate the trendz of technology.
@@ -121,6 +123,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 ## November
 - 7-8 - [ContainerDay](https://www.containerday.it/) - Bologna - The italian conference dedicated to virtualization best-practices.
 - 8-9 - [Agile day(s)](https://www.agileday.it/front/) - Modena - Conference dedicated to Agile Methodologies.
+- 22-23 - [WordCamp Milano 2019](https://2019.milano.wordcamp.org/) - Milano - Everything about WordPress.
 - 28-29 - [LaravelDay](http://www.laravelday.it/) - Verona - The italian conference dedicated to Laravel developers.
 
 ## December
