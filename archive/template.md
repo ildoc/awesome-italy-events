@@ -30,7 +30,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 
 ## January
 
-## Februrary
+## February
 
 ## March
 
