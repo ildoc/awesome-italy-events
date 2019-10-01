@@ -112,13 +112,20 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 28 - [RomHack](https://www.romhack.io/) - Roma - Cybersecurity convention.
 
 ## October
+- 3 - [NodeJSDay 2019](https://2019.nodejsday.it/) - Verona - NodeJS national conference.
 - 4 - [ReactJsDay 2019](https://www.reactjsday.it/) - Verona - React's national conference.
+- 5 - [Introduction to conversational interfaces](https://www.meetup.com/GDG-Urbino/events/264335682) - Urbino - workshop on vocal interfaces
+- 5-6 [Google DevFest Campania](https://www.eventbrite.it/e/biglietti-google-devfest-campania-2019-72763009119) - Marcianise (CE) - Various technical talks and 24-hours long hackaton
+- 7 - [Migrating to public cloud and a real-world use case of Amazon Glacier](https://www.eventbrite.it/e/biglietti-realta-aumentata-unintroduzione-allo-sviluppo-mobile-e-web-71906531371) - Ancona
 - 7 - [NG Rome](https://ngrome.io/) - Roma - Biggest Italian Angular Conference.
 - 11-12 - [WordCamp Verona 2019](https://2019.verona.wordcamp.org/) - Verona - Everything about WordPress.
+- 17-18 - [ISF Festival 2019](https://festival.informaticisenzafrontiere.org/?page_id=2) - Rovereto (TN) - Annual ISF (Informatici Senza Frontiere - Informatics without Borders) conference
 - 16 - [Sicurezza ICT Soiel](https://soiel.it/eventi/2019/sicurezza-2019-bari/area-visitatori/contenuti/) - Bari - Security, compliance and business continuity.
 - 17-18 - [SymphonyDay](https://www.symfonyday.it/) - Verona - The italian conference dedicated to symphony developers.
 - 23-24 - [Wireless 2019](https://wirelesscommunication.expertconferences.org/) - Roma - Connect and communicate the trendz of technology.
 - 24-25 - [CodeMotion](https://events.codemotion.com/conferences/milan/2019/) - Milano - Biggest tech conference in Italy.
+- 25 - [TSConf](https://ts-conf.it/) - Desenzano del Garda (BS) - Italian TypeScript annual conference
+- 26 - [DevOpsHeroes 2019](http://www.devops-heroes.net/) - Parma - Annual conference on DevOps technologies and tools
 
 ## November
 - 7-8 - [ContainerDay](https://www.containerday.it/) - Bologna - The italian conference dedicated to virtualization best-practices.
