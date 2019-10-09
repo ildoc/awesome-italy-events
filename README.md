@@ -126,6 +126,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 11-13 - [GDG DevFest Mediterranean 2019](https://devfestmed.com/) - Sant'Agata di Militello (ME) - three days of conferences, codelab, devparty and hackatons for developers and tech enthusiasts 
 - 12 - [.NET Conf 2019 Catania](https://www.eventbrite.it/e/biglietti-net-conf-2019-catania-71623775641) - Catania - Microsoft .NET Conf 2019 local event
 - 16 - [Sicurezza ICT Soiel](https://soiel.it/eventi/2019/sicurezza-2019-bari/area-visitatori/contenuti/) - Bari - Security, compliance and business continuity.
+- 16-17 - [Milan Cloud Data Summit](https://www.clouddatasummit.com/) - Milano - Cloud dedicated conferences.
 - 17 - [Hacktoberfest in Unicam](https://www.eventbrite.it/e/biglietti-hacktoberfest-in-unicam-74954840947) - Camerino (MC) - Digital Ocean Hacktoberfest related event
 - 17 - [Hacktoberfest Brescia 2019](https://www.meetup.com/Meetup-GDG-Brescia/events/264866119/) - Brescia - Digital Ocean Hacktoberfest related event
 - 17 - [.NET Conf 2019 Verona](https://www.eventbrite.it/e/biglietti-tutte-le-novita-di-net-core-3-65353918329) - Verona - Microsoft .NET Conf 2019 local event
@@ -141,14 +142,22 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 26 - [DevOpsHeroes 2019](http://www.devops-heroes.net/) - Parma - Annual conference on DevOps technologies and tools
 - 26 - [.NET Conf 2019 Imperia](https://www.eventbrite.it/e/biglietti-net-conf-2019-imperia-71558839415) - Imperia - Microsoft .NET Conf 2019 local event
 - 26 - [Linux Day 2019](https://www.linuxday.it/2019/) - Various Locations - the main Italian event dedicated to Linux
+- 25 - [TSConf](https://ts-conf.it/) - Desenzano del Garda (BS) - Italian TypeScript annual conference.
+- 25 - [Generali Code Factor](https://extra.codemotion.com/java-developer-coding-challenge-powered-by-generali/) - Java developer coding challange.
+- 26 - [DevOpsHeroes 2019](http://www.devops-heroes.net/) - Parma - Annual conference on DevOps technologies and tools.
+- 26 - [.Net Conf 2019](https://www.eventbrite.it/e/biglietti-net-conf-2019-imperia-71558839415) - Imperia - Local .Net Conf 2019 event.
 - 29 - [Hacktoberfest Roma 2019](https://www.eventbrite.it/e/biglietti-hacktoberfest-2019-aperitech-di-pug-roma-71642016199) - Roma - Digital Ocean Hacktoberfest related event
 
 ## November
+- 5 - [Digital Workplace Summit 2019](https://www.eventbrite.it/e/biglietti-digital-workplace-summit-75304524861) - Milano - Conference about working remotely.
 - 7-8 - [ContainerDay](https://www.containerday.it/) - Bologna - The italian conference dedicated to virtualization best-practices.
 - 8-9 - [Agile day(s)](https://www.agileday.it/front/) - Modena - Conference dedicated to Agile Methodologies.
+- 10 - [.Net Conf 2019](https://www.eventbrite.it/e/biglietti-net-conf-2019-whats-new-in-net-ecosystem-70140288491) - Torino - Local .Net Conf 2019 event.
+- 13 - [World Usability Day 2019](https://www.wudmilan.it) - Milano - "Design for the Future We Want".
+- 22 - [FuffaDay 2019](http://www.fuffaday.org/) - Milano - Agile communication.
 - 22-23 - [WordCamp Milano 2019](https://2019.milano.wordcamp.org/) - Milano - Everything about WordPress.
 - 23 - [GDG DevFest Urbino 2019](https://www.meetup.com/it-IT/GDG-Urbino/events/264336374) - Urbino (PU) - Conference dedicated to coding and software
 - 28-29 - [LaravelDay](http://www.laravelday.it/) - Verona - The italian conference dedicated to Laravel developers.
 
 ## December
-
+- 14 - [Scratch and Christmas](https://www.eventbrite.co.uk/e/scratch-and-christmas-tickets-68676107085) - Genova - Scratch for fun Christmas projects.
