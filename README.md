@@ -121,6 +121,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 11-12 - [WordCamp Verona 2019](https://2019.verona.wordcamp.org/) - Verona - Everything about WordPress.
 - 17-18 - [ISF Festival 2019](https://festival.informaticisenzafrontiere.org/?page_id=2) - Rovereto (TN) - Annual ISF (Informatici Senza Frontiere - Informatics without Borders) conference
 - 16 - [Sicurezza ICT Soiel](https://soiel.it/eventi/2019/sicurezza-2019-bari/area-visitatori/contenuti/) - Bari - Security, compliance and business continuity.
+- 16-17 - [Milan Cloud Data Summit](https://www.clouddatasummit.com/) - Milano - Cloud dedicated conferences.
 - 17-18 - [SymphonyDay](https://www.symfonyday.it/) - Verona - The italian conference dedicated to symphony developers.
 - 23-24 - [Wireless 2019](https://wirelesscommunication.expertconferences.org/) - Roma - Connect and communicate the trendz of technology.
 - 24-25 - [CodeMotion](https://events.codemotion.com/conferences/milan/2019/) - Milano - Biggest tech conference in Italy.
