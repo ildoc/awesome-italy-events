@@ -125,6 +125,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 23-24 - [Wireless 2019](https://wirelesscommunication.expertconferences.org/) - Roma - Connect and communicate the trendz of technology.
 - 24-25 - [CodeMotion](https://events.codemotion.com/conferences/milan/2019/) - Milano - Biggest tech conference in Italy.
 - 25 - [TSConf](https://ts-conf.it/) - Desenzano del Garda (BS) - Italian TypeScript annual conference
+- 25 - [Generali Code Factor](https://extra.codemotion.com/java-developer-coding-challenge-powered-by-generali/) - Java developer coding challange
 - 26 - [DevOpsHeroes 2019](http://www.devops-heroes.net/) - Parma - Annual conference on DevOps technologies and tools
 
 ## November
