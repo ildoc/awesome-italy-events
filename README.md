@@ -114,8 +114,8 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 ## October
 - 3 - [NodeJSDay 2019](https://2019.nodejsday.it/) - Verona - NodeJS national conference.
 - 4 - [ReactJsDay 2019](https://www.reactjsday.it/) - Verona - React's national conference.
-- 5 - [Introduction to conversational interfaces](https://www.meetup.com/GDG-Urbino/events/264335682) - Urbino - workshop on vocal interfaces
-- 5-6 [Google DevFest Campania](https://www.eventbrite.it/e/biglietti-google-devfest-campania-2019-72763009119) - Marcianise (CE) - Various technical talks and 24-hours long hackaton
+- 5 - [Introduction to conversational interfaces](https://www.meetup.com/GDG-Urbino/events/264335682) - Urbino - workshop on vocal interfaces.
+- 5-6 [Google DevFest Campania](https://www.eventbrite.it/e/biglietti-google-devfest-campania-2019-72763009119) - Marcianise (CE) - Various technical talks and 24-hours long hackaton.
 - 7 - [Migrating to public cloud and a real-world use case of Amazon Glacier](https://www.eventbrite.it/e/biglietti-realta-aumentata-unintroduzione-allo-sviluppo-mobile-e-web-71906531371) - Ancona
 - 7 - [NG Rome](https://ngrome.io/) - Roma - Biggest Italian Angular Conference.
 - 11-12 - [WordCamp Verona 2019](https://2019.verona.wordcamp.org/) - Verona - Everything about WordPress.
@@ -124,9 +124,10 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 17-18 - [SymphonyDay](https://www.symfonyday.it/) - Verona - The italian conference dedicated to symphony developers.
 - 23-24 - [Wireless 2019](https://wirelesscommunication.expertconferences.org/) - Roma - Connect and communicate the trendz of technology.
 - 24-25 - [CodeMotion](https://events.codemotion.com/conferences/milan/2019/) - Milano - Biggest tech conference in Italy.
-- 25 - [TSConf](https://ts-conf.it/) - Desenzano del Garda (BS) - Italian TypeScript annual conference
-- 25 - [Generali Code Factor](https://extra.codemotion.com/java-developer-coding-challenge-powered-by-generali/) - Java developer coding challange
-- 26 - [DevOpsHeroes 2019](http://www.devops-heroes.net/) - Parma - Annual conference on DevOps technologies and tools
+- 25 - [TSConf](https://ts-conf.it/) - Desenzano del Garda (BS) - Italian TypeScript annual conference.
+- 25 - [Generali Code Factor](https://extra.codemotion.com/java-developer-coding-challenge-powered-by-generali/) - Java developer coding challange.
+- 26 - [DevOpsHeroes 2019](http://www.devops-heroes.net/) - Parma - Annual conference on DevOps technologies and tools.
+- 26 - [.Net Conf 2019](https://www.eventbrite.it/e/biglietti-net-conf-2019-imperia-71558839415) - Imperia - Local .Net Conf 2019 event.
 
 ## November
 - 7-8 - [ContainerDay](https://www.containerday.it/) - Bologna - The italian conference dedicated to virtualization best-practices.
@@ -135,4 +136,4 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 28-29 - [LaravelDay](http://www.laravelday.it/) - Verona - The italian conference dedicated to Laravel developers.
 
 ## December
-- 14 - [Scratch and Christmas](https://www.eventbrite.co.uk/e/scratch-and-christmas-tickets-68676107085) - Genova - Scratch for fun Christmas projects
+- 14 - [Scratch and Christmas](https://www.eventbrite.co.uk/e/scratch-and-christmas-tickets-68676107085) - Genova - Scratch for fun Christmas projects.
