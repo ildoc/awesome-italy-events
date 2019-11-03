@@ -1,4 +1,4 @@
-# Awesome Events in Italy (2019 Edition) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1200px-Flag_of_Italy.svg.png" width="200" align="right" alt="italian flag">
+# Awesome Events in Italy (2019 Edition) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1200px-Flag_of_Italy.svg.png" width="200" align="right" alt="italian flag">](https://github.com/ildoc/awesome-italy-events#readme)
 
 > A curated list of Awesome Tech Events in Italy
 
