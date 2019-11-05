@@ -146,6 +146,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 29 - [Hacktoberfest Roma 2019](https://www.eventbrite.it/e/biglietti-hacktoberfest-2019-aperitech-di-pug-roma-71642016199) - Roma - Digital Ocean Hacktoberfest related event.
 
 ## November
+- 2-3 - [GDG DevFest Pescara 2019](https://devfest.gdgpescara.it/) - Pescara - Conference dedicated to coding and software
 - 5 - [Digital Workplace Summit 2019](https://www.eventbrite.it/e/biglietti-digital-workplace-summit-75304524861) - Milano - Conference about working remotely.
 - 7-8 - [ContainerDay](https://www.containerday.it/) - Bologna - The italian conference dedicated to virtualization best-practices.
 - 8-9 - [Agile day(s)](https://www.agileday.it/front/) - Modena - Conference dedicated to Agile Methodologies.
