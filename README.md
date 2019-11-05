@@ -151,6 +151,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 8-9 - [Agile day(s)](https://www.agileday.it/front/) - Modena - Conference dedicated to Agile Methodologies.
 - 10 - [.Net Conf 2019](https://www.eventbrite.it/e/biglietti-net-conf-2019-whats-new-in-net-ecosystem-70140288491) - Torino - Local .Net Conf 2019 event.
 - 13 - [World Usability Day 2019](https://www.wudmilan.it) - Milano - "Design for the Future We Want".
+- 16 - [Django Girls Rome](https://djangogirls.org/rome/) - Roma - "Free programming workshop for women".
 - 22 - [FuffaDay 2019](http://www.fuffaday.org/) - Milano - Agile communication.
 - 22-23 - [WordCamp Milano 2019](https://2019.milano.wordcamp.org/) - Milano - Everything about WordPress.
 - 23 - [GDG DevFest Urbino 2019](https://www.meetup.com/it-IT/GDG-Urbino/events/264336374) - Urbino (PU) - Conference dedicated to coding and software
