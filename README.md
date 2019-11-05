@@ -144,6 +144,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 26 - [.NET Conf 2019 Imperia](https://www.eventbrite.it/e/biglietti-net-conf-2019-imperia-71558839415) - Imperia - Microsoft .NET Conf 2019 local event.
 - 26 - [Linux Day 2019](https://www.linuxday.it/2019/) - Various Locations - the main Italian event dedicated to Linux.
 - 29 - [Hacktoberfest Roma 2019](https://www.eventbrite.it/e/biglietti-hacktoberfest-2019-aperitech-di-pug-roma-71642016199) - Roma - Digital Ocean Hacktoberfest related event.
+- 30 - [PyRoma Meetup October 2019](https://roma.python.it/) - Roma - Python User Group of Rome.
 
 ## November
 - 5 - [Digital Workplace Summit 2019](https://www.eventbrite.it/e/biglietti-digital-workplace-summit-75304524861) - Milano - Conference about working remotely.
