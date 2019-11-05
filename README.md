@@ -125,6 +125,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 10-13 - [Internet Festival 2019](https://www.internetfestival.it) - Pisa - the most important italian summit about digital innovation with talks, workshops, round tables, conferences, book presentations, and shows.
 - 11-12 - [WordCamp Verona 2019](https://2019.verona.wordcamp.org/) - Verona - Everything about WordPress.
 - 11-13 - [GDG DevFest Mediterranean 2019](https://devfestmed.com/) - Sant'Agata di Militello (ME) - three days of conferences, codelab, devparty and hackatons for developers and tech enthusiasts.
+- 19 - [Django Girls Palermo](https://djangogirls.org/palermo/) - Palermo - "Free programming workshop for women".
 - 12 - [.NET Conf 2019 Catania](https://www.eventbrite.it/e/biglietti-net-conf-2019-catania-71623775641) - Catania - Microsoft .NET Conf 2019 local event.
 - 16 - [Sicurezza ICT Soiel](https://soiel.it/eventi/2019/sicurezza-2019-bari/area-visitatori/contenuti/) - Bari - Security, compliance and business continuity.
 - 16-17 - [Milan Cloud Data Summit](https://www.clouddatasummit.com/) - Milano - Cloud dedicated conferences.
@@ -134,6 +135,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 17-18 - [ISF Festival 2019](https://festival.informaticisenzafrontiere.org/?page_id=2) - Rovereto (TN) - Annual ISF (Informatici Senza Frontiere - Informatics without Borders) conference.
 - 17-18 - [SymphonyDay](https://www.symfonyday.it/) - Verona - The italian conference dedicated to symphony developers.
 - 18-19 - [Hacktoberfest Naples 2019](https://www.eventbrite.it/e/biglietti-hacktoberfest-napoli-1819-ottobre-2019-74668689059) - Napoli - Digital Ocean Hacktoberfest related event.
+- 19 - [Django Girls Palermo](https://djangogirls.org/palermo/) - Palermo - "Free programming workshop for women".
 - 23 - [Hacktoberfest Open Hack Night](https://www.meetup.com/it-IT/pugSondrio-PHP-User-Group-Sondrio/events/264817389/) - Caiolo (SO) - Digital Ocean Hacktoberfest related event.
 - 23 - [Hacktoberfest Open Hack Night](https://www.meetup.com/it-IT/pugCagliari-PHP-User-Group-Cagliari/events/264808283/) - Cagliari - Digital Ocean Hacktoberfest related event.
 - 23-24 - [Wireless 2019](https://wirelesscommunication.expertconferences.org/) - Roma - Connect and communicate the trendz of technology.
@@ -163,4 +165,5 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 
 ## December
 - 5 - [Python Firenze Meetup December 2019](https://www.meetup.com/Python-Firenze/) - Firenze - Python User Group of Firenze.
+- 13 - [Django Girls Caserta](https://djangogirls.org/caserta/) - Caserta - "Free programming workshop for women".
 - 14 - [Scratch and Christmas](https://www.eventbrite.co.uk/e/scratch-and-christmas-tickets-68676107085) - Genova - Scratch for fun Christmas projects.
