@@ -29,6 +29,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 ---
 
 ## January
+- 16 - [Speck&Tech #30 - Cloudy with a chance of speck](https://speckand.tech/2019/01/cloudy-with-a-chance-of-speck/) - Trento - Speck&Tech community meetup.
 - 25-27 - [Global Game Jam](https://globalgamejam.org/news/ggj19-diversifiers) - [Multiple locations](https://globalgamejam.org/2019/jam-sites?title=&country=IT) - World's largest game jam event.
 
 ## February
@@ -37,12 +38,14 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 6 - [Forum Software Industriale](https://forumsoftwareindustriale.it/) - Milano - Software technology evolution in 4.0 industry.
 - 12 - [Self-driving Data Center](https://web.cvent.com/event/2f2299a5-804b-428d-93a4-80fdf4629722/websitePage:3bf511cf-ea12-464b-888e-21ae7ccc1514) - Roma - Virtual nets for agile business.
 - 12 - [Sicurezza ICT Soiel](https://soiel.it/eventi/2019/sicurezza-2019-milano/area-visitatori/contenuti/) - Milano - Security, compliance and business continuity.
+- 26 - [Speck&Tech #31 - Open Security](https://speckand.tech/2019/02/open-security/) - Trento - Speck&Tech community meetup.
 - 28 - [Hash Code 2019](https://www.meetup.com/GDG-Milano/events/258304715/) - Milano - Hackaton.
 
 ## March
 - 7-8 - [Incontro DevOps 2019](https://2019.incontrodevops.it/) - Bologna - Conference about DevOps, Continuous Delivery, Cloud, Microservices. 
 - 11 - [DevMarche](http://dev.marche.it/eventi/2019/03/06/introduzione-allo-unit-testing-ancona-6-marzo-2019/) - Ancona - Unit testing introduction.
 - 12 - [AWS Summit](https://aws.amazon.com/it/events/summits/milan/) - Milano - Yearly Amazon Web Services cloud event.
+- 12 - [Speck&Tech in MUSE::Next #1 - Guida galattica per Specker](https://speckand.tech/2019/03/mn-guida-galattica-per-specker/) - Trento - Speck&Tech community meetup partnered with MUSE.
 - 14-15 - [CSSDay 2019](https://2019.cssday.it/) - Faenza - CSS dedicated conference.
 - 19 - [IT Infrastructure Day](https://soiel.it/eventi/2019/IT-Infrastructure-Day-Milano-Marzo-2019/area-visitatori/contenuti/) - Milano - Conference about datacenters, cloud, HPC.
 - 19 - [Trend Micro Cyber Conference](http://go.trendmicro.com/events/cyberconference2019/) - Milano - Trend Micro conference about new cyber security paradigms.
@@ -57,6 +60,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 4-5 - [DroidCon](https://it.droidcon.com/2019/it) - Torino - Italy’s biggest Android Event.
 - 5-6 - [WordCamp Torino 2019](https://2019.torino.wordcamp.org/) - Torino - Everything about WordPress.
 - 6 - [SQL Start! 2019](https://www.eventbrite.it/e/biglietti-sql-start-2019-56165372140) - Ancona - SQL Server talks for DBAs, Devs and Data Analysts.
+- 9 - [Speck&Tech in MUSE::Next #2 - Homo Faber](https://speckand.tech/2019/04/mn-homo-faber/) - Trento - Speck&Tech community meetup partnered with MUSE.
 - 10-11 - [RubyDay 2019](https://2019.rubyday.it/) - Verona - Ruby's national conference.
 - 11 - [Cloudia](https://www.cloudia.pcsystem.it/) - Firenze - Cybersecurity, cryptography, pentesting event.
 - 11 - [Meetup C++](https://conoscerelinux.org/courses/meetupcpp_apr19/) - Modena - Real-time communication using WebRTC in C++.
@@ -72,6 +76,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 2-5 - [HackInBoat](https://hackinboat.it/) - Genova/Barcellona/Marsiglia - Hacking while cruising!
 - 2-5 - [PyCon X](https://www.pycon.it/) - Firenze - Python's national conference.
 - 5 - [ComputationWorld 2019](https://www.iaria.org/conferences2019/ComputationWorld19.html) - Venezia - Conference about advanced cloud computing.
+- 7 - [MUSE::Next #3 - Chi controllerà l'intelligenza artificiale?](https://speckand.tech/2019/05/mn-ia/) - Trento - Speck&Tech community meetup partnered with MUSE.
 - 8-9 - [jsday 2019](https://2019.jsday.it/) - Verona - Javascript's international conference.
 - 10 - [Agile Venture](https://www.agileday.it/venture/2019/bolzano/) - Bolzano - Conference dedicated to Agile Methodologies.
 - 10-11 - [phpDay](https://2019.phpday.it/) - Verona - PHP's national conference.
@@ -88,6 +93,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 5-7 - [Kerning](https://2019.kerning.it/) - Faenza - The first international conference in Italy about web typography.
 - 6-7 - [e-privacy XXV](https://e-privacy.winstonsmith.org/e-privacy-XXV.html) - Torino - Privacy focused events about social scoring and profiling.
 - 8 - [Agile Venture](https://www.agileday.it/venture/2019/vimercate/) - Vimercate - Conference dedicated to Agile Methodologies.
+- 11 - [Speck&Tech #32 - Scalability](https://speckand.tech/2019/06/scalability/) - Trento - Speck&Tech community meetup.
 - 13-14 - [Annual Privacy Forum](https://privacyforum.eu/) - Roma - Annual conference about privacy.
 - 14-15 - [Angular Day](https://2019.angularday.it/) - Verona - Angular's national conference.
 - 15 - [Italian C++ conference](https://www.italiancpp.org) - Milano - Italian c++ conference.
@@ -100,9 +106,10 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 ## July
 - 3 - [Working Software](https://workingsoftware.agilemovement.it) - Milano - Agile in software: for Devs, for Testers, for People.
 - 29-31 - [CSECI 2019](http://www.cseci.org/) - Roma - International Conference on Software Engineering and Computational Intelligence.
+- 31 - [Speck&Tech #33 - Highway to speck](https://speckand.tech/2019/07/highway/) - Trento - Speck&Tech community meetup.
 
 ## August
-- 24-31 [DevFest Levante](https://devfestlevante.eu/) - Gallipoli - Conference about Google-related technologies.
+- 24-31 - [DevFest Levante](https://devfestlevante.eu/) - Gallipoli - Conference about Google-related technologies.
 
 ## September
 - 20 - [Scala Italy 2019](http://2018.scala-italy.it/) - Bologna - Yearly conference on the Scala programming language.
@@ -115,6 +122,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 3 - [Python Firenze Meetup October 2019](https://www.meetup.com/Python-Firenze/) - Firenze - Python User Group of Firenze
 - 3 - [NodeJSDay 2019](https://2019.nodejsday.it/) - Verona - NodeJS national conference.
 - 4 - [ReactJsDay 2019](https://www.reactjsday.it/) - Verona - React's national conference.
+- 4 - [#34 - Cyber intelligence](https://speckand.tech/2019/10/cyber-intelligence/) - Trento - Speck&Tech community meetup.
 - 5 - [Introduction to conversational interfaces](https://www.meetup.com/GDG-Urbino/events/264335682) - Urbino - workshop on vocal interfaces.
 - 5-6 [Google DevFest Campania](https://www.eventbrite.it/e/biglietti-google-devfest-campania-2019-72763009119) - Marcianise (CE) - Various technical talks and 24-hours long hackaton.
 - 7 - [Migrating to public cloud and a real-world use case of Amazon Glacier](https://www.eventbrite.it/e/biglietti-realta-aumentata-unintroduzione-allo-sviluppo-mobile-e-web-71906531371) - Ancona - Amazon Glacier real-world use case demo
