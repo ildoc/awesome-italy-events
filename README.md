@@ -122,7 +122,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 3 - [Python Firenze Meetup October 2019](https://www.meetup.com/Python-Firenze/) - Firenze - Python User Group of Firenze
 - 3 - [NodeJSDay 2019](https://2019.nodejsday.it/) - Verona - NodeJS national conference.
 - 4 - [ReactJsDay 2019](https://www.reactjsday.it/) - Verona - React's national conference.
-- 4 - [#34 - Cyber intelligence](https://speckand.tech/2019/10/cyber-intelligence/) - Trento - Speck&Tech community meetup.
+- 4 - [Speck&Tech #34 - Cyber intelligence](https://speckand.tech/2019/10/cyber-intelligence/) - Trento - Speck&Tech community meetup.
 - 5 - [Introduction to conversational interfaces](https://www.meetup.com/GDG-Urbino/events/264335682) - Urbino - workshop on vocal interfaces.
 - 5-6 [Google DevFest Campania](https://www.eventbrite.it/e/biglietti-google-devfest-campania-2019-72763009119) - Marcianise (CE) - Various technical talks and 24-hours long hackaton.
 - 7 - [Migrating to public cloud and a real-world use case of Amazon Glacier](https://www.eventbrite.it/e/biglietti-realta-aumentata-unintroduzione-allo-sviluppo-mobile-e-web-71906531371) - Ancona - Amazon Glacier real-world use case demo
