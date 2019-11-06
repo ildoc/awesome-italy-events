@@ -125,7 +125,6 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 10-13 - [Internet Festival 2019](https://www.internetfestival.it) - Pisa - the most important italian summit about digital innovation with talks, workshops, round tables, conferences, book presentations, and shows.
 - 11-12 - [WordCamp Verona 2019](https://2019.verona.wordcamp.org/) - Verona - Everything about WordPress.
 - 11-13 - [GDG DevFest Mediterranean 2019](https://devfestmed.com/) - Sant'Agata di Militello (ME) - three days of conferences, codelab, devparty and hackatons for developers and tech enthusiasts.
-- 19 - [Django Girls Palermo](https://djangogirls.org/palermo/) - Palermo - "Free programming workshop for women".
 - 12 - [.NET Conf 2019 Catania](https://www.eventbrite.it/e/biglietti-net-conf-2019-catania-71623775641) - Catania - Microsoft .NET Conf 2019 local event.
 - 16 - [Sicurezza ICT Soiel](https://soiel.it/eventi/2019/sicurezza-2019-bari/area-visitatori/contenuti/) - Bari - Security, compliance and business continuity.
 - 16-17 - [Milan Cloud Data Summit](https://www.clouddatasummit.com/) - Milano - Cloud dedicated conferences.
