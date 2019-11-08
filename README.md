@@ -169,6 +169,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 22 - [FuffaDay 2019](http://www.fuffaday.org/) - Milano - Agile communication.
 - 22-23 - [WordCamp Milano 2019](https://2019.milano.wordcamp.org/) - Milano - Everything about WordPress.
 - 23 - [GDG DevFest Urbino 2019](https://www.meetup.com/it-IT/GDG-Urbino/events/264336374) - Urbino (PU) - Conference dedicated to coding and software
+- 28 - [IoT Day](http://www.iotdayit.org/) - Conference with the main focus on the "Internet of Things".
 - 28-29 - [LaravelDay](http://www.laravelday.it/) - Verona - The italian conference dedicated to Laravel developers.
 
 ## December
