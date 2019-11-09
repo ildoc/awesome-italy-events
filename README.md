@@ -77,7 +77,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 2-5 - [PyCon X](https://www.pycon.it/) - Firenze - Python's national conference.
 - 5 - [ComputationWorld 2019](https://www.iaria.org/conferences2019/ComputationWorld19.html) - Venezia - Conference about advanced cloud computing.
 - 7 - [MUSE::Next #3 - Chi controllerà l'intelligenza artificiale?](https://speckand.tech/2019/05/mn-ia/) - Trento - Speck&Tech community meetup partnered with MUSE.
-- 8-9 - [jsday 2019](https://2019.jsday.it/) - Verona - Javascript's international conference.
+- 8-9 - [jsday 2019](https://2019.jsday.it/) - Verona - JavaScript's international conference.
 - 10 - [Agile Venture](https://www.agileday.it/venture/2019/bolzano/) - Bolzano - Conference dedicated to Agile Methodologies.
 - 10-11 - [phpDay](https://2019.phpday.it/) - Verona - PHP's national conference.
 - 10-12 - [Level Up](http://www.lvlup.it/) - Roma - International developer conference on video games.
@@ -115,12 +115,12 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 20 - [Scala Italy 2019](http://2018.scala-italy.it/) - Bologna - Yearly conference on the Scala programming language.
 - 20-21 - [WordCamp Catania 2019](https://2019.catania.wordcamp.org/) - Catania - Everything about WordPress.
 - 26 - [Sicurezza ICT Soiel](https://soiel.it/eventi/2019/sicurezza-2019-torino/area-visitatori/contenuti/) - Torino - Security, compliance and business continuity.
-- 26-27 - [NodeJS Italian Conference](https://2018.nodejsconf.it/) - Verona - NodeJS's national conference.
+- 26-27 - [Node.js Italian Conference](https://2018.nodejsconf.it/) - Verona - Node.js's national conference.
 - 28 - [RomHack](https://www.romhack.io/) - Roma - Cybersecurity convention.
 
 ## October
 - 3 - [Python Firenze Meetup October 2019](https://www.meetup.com/Python-Firenze/) - Firenze - Python User Group of Firenze
-- 3 - [NodeJSDay 2019](https://2019.nodejsday.it/) - Verona - NodeJS national conference.
+- 3 - [Node.js Day 2019](https://2019.nodejsday.it/) - Verona - Node.js national conference.
 - 4 - [ReactJsDay 2019](https://www.reactjsday.it/) - Verona - React's national conference.
 - 4 - [Speck&Tech #34 - Cyber intelligence](https://speckand.tech/2019/10/cyber-intelligence/) - Trento - Speck&Tech community meetup.
 - 5 - [Introduction to conversational interfaces](https://www.meetup.com/GDG-Urbino/events/264335682) - Urbino - workshop on vocal interfaces.
@@ -176,3 +176,11 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 5 - [Python Firenze Meetup December 2019](https://www.meetup.com/Python-Firenze/) - Firenze - Python User Group of Firenze.
 - 13 - [Django Girls Caserta](https://djangogirls.org/caserta/) - Caserta - "Free programming workshop for women".
 - 14 - [Scratch and Christmas](https://www.eventbrite.co.uk/e/scratch-and-christmas-tickets-68676107085) - Genova - Scratch for fun Christmas projects.
+
+
+
+## License
+[![CC-BY-SA-4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+
+To the extent possible under law, [ildoc](https://twitter.com/ildoc) has waived all copyright and related or neighboring rights to this work.
