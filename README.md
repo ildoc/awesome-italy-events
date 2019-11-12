@@ -178,7 +178,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 14 - [Scratch and Christmas](https://www.eventbrite.co.uk/e/scratch-and-christmas-tickets-68676107085) - Genova - Scratch for fun Christmas projects.
 - 17 - [AWSome Day](https://pages.awscloud.com/EMEA_field_T1_awsome-day-bolzano_20191712_page-registration.html) - Bolzano - AWS beginner training day.
 
-
+---
 
 ## License
 [![CC-BY-SA-4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
