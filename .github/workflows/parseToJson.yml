@@ -22,7 +22,8 @@ jobs:
         # configure git
         git config --global user.name "$USER"
         git config --global user.email "$EMAIL"
-        
+
+        git checkout master
         git add --all
         git commit -m "regenerated json"
         git push
