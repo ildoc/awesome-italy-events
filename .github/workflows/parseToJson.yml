@@ -23,7 +23,8 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git commit -m "Regenerated json" -a
+        git add --all
+        git commit -m "Regenerated json"
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
