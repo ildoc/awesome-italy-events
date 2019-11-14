@@ -27,3 +27,7 @@ jobs:
         git add --all
         git commit -m "regenerated json"
         git push
+
+      env:
+        USER: ${{ secrets.USER }}
+        EMAIL: ${{ secrets.EMAIL }}
