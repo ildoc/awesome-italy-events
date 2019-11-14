@@ -19,15 +19,12 @@ jobs:
         cd scripts
         python parseToJson.py
 
-        # configure git
-        git config --global user.name "$USER"
-        git config --global user.email "$EMAIL"
-
-        git checkout master
-        git add --all
-        git commit -m "regenerated json"
-        git push
-
-      env:
-        USER: ${{ secrets.USER }}
-        EMAIL: ${{ secrets.EMAIL }}
+    - name: Commit files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "Regenerated json" -a
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
