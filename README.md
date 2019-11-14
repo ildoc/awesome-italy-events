@@ -125,7 +125,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 4 - [Speck&Tech #34 - Cyber intelligence](https://speckand.tech/2019/10/cyber-intelligence/) - Trento - Speck&Tech community meetup.
 - 5 - [Introduction to conversational interfaces](https://www.meetup.com/GDG-Urbino/events/264335682) - Urbino - workshop on vocal interfaces.
 - 5-6 - [Google DevFest Campania](https://www.eventbrite.it/e/biglietti-google-devfest-campania-2019-72763009119) - Marcianise (CE) - Various technical talks and 24-hours long hackaton.
-- 7 - [Migrating to public cloud and a real-world use case of Amazon Glacier](https://www.eventbrite.it/e/biglietti-realta-aumentata-unintroduzione-allo-sviluppo-mobile-e-web-71906531371) - Ancona - Amazon Glacier real-world use case demo,
+- 7 - [Migrating to public cloud and a real-world use case of Amazon Glacier](https://www.eventbrite.it/e/biglietti-realta-aumentata-unintroduzione-allo-sviluppo-mobile-e-web-71906531371) - Ancona - Amazon Glacier real-world use case demo.
 - 7 - [NG Rome](https://ngrome.io/) - Roma - Biggest Italian Angular Conference.
 - 8 - [Torino Hacknight: Hacktoberfest](https://hacktoberfest-torino.eventbrite.it/) - Torino - Digital Ocean Hacktoberfest related event.
 - 10 - [Realtà Aumentata: un'introduzione allo sviluppo mobile e web](https://www.eventbrite.it/e/biglietti-realta-aumentata-unintroduzione-allo-sviluppo-mobile-e-web-71906531371) - Pesaro - Talk, examples and live demo about the evolution of AR.
