@@ -82,7 +82,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 10-11 - [phpDay](https://2019.phpday.it/) - Verona - PHP's national conference.
 - 10-12 - [Level Up](http://www.lvlup.it/) - Roma - International developer conference on video games.
 - 10-12 - [Startup Weekend](http://communities.techstars.com/italy/milano-italy/startup-weekend/14456) - Milano - Startup hackaton competition.
-- 14-15 [ItaliaSec](https://cyberseries.io/italiasec/) - Roma - This groundbreaking summit is designed for senior security leaders.
+- 14-15 - [ItaliaSec](https://cyberseries.io/italiasec/) - Roma - This groundbreaking summit is designed for senior security leaders.
 - 17 - [PGDay.IT](https://2019.pgday.it) - Bologna - PostgreSQL Italian conference.
 - 17-18 - [WordCamp Bari 2019](https://2019.bari.wordcamp.org/) - Bari - Everything about WordPress.
 - 23 - [Cloudia](https://www.cloudia.pcsystem.it/) - Lucca - Cybersecurity, cryptography, pentesting event.
@@ -124,7 +124,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 4 - [ReactJsDay 2019](https://www.reactjsday.it/) - Verona - React's national conference.
 - 4 - [Speck&Tech #34 - Cyber intelligence](https://speckand.tech/2019/10/cyber-intelligence/) - Trento - Speck&Tech community meetup.
 - 5 - [Introduction to conversational interfaces](https://www.meetup.com/GDG-Urbino/events/264335682) - Urbino - workshop on vocal interfaces.
-- 5-6 [Google DevFest Campania](https://www.eventbrite.it/e/biglietti-google-devfest-campania-2019-72763009119) - Marcianise (CE) - Various technical talks and 24-hours long hackaton.
+- 5-6 - [Google DevFest Campania](https://www.eventbrite.it/e/biglietti-google-devfest-campania-2019-72763009119) - Marcianise (CE) - Various technical talks and 24-hours long hackaton.
 - 7 - [Migrating to public cloud and a real-world use case of Amazon Glacier](https://www.eventbrite.it/e/biglietti-realta-aumentata-unintroduzione-allo-sviluppo-mobile-e-web-71906531371) - Ancona - Amazon Glacier real-world use case demo
 - 7 - [NG Rome](https://ngrome.io/) - Roma - Biggest Italian Angular Conference.
 - 8 - [Torino Hacknight: Hacktoberfest](https://hacktoberfest-torino.eventbrite.it/) - Torino - Digital Ocean Hacktoberfest related event.
@@ -149,7 +149,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 23-25 - [.NET Conf 2019 Caserta](https://www.eventbrite.com/e/net-conference-2019-caserta-tickets-55402309800) - Caserta - Microsoft .NET Conf 2019 local event.
 - 24-25 - [CodeMotion](https://events.codemotion.com/conferences/milan/2019/) - Milano - Biggest tech conference in Italy.
 - 25 - [TSConf](https://ts-conf.it/) - Desenzano del Garda (BS) - Italian TypeScript annual conference.
-- 25 - [Generali Code Factor](https://extra.codemotion.com/java-developer-coding-challenge-powered-by-generali/) - Java developer coding challange.
+- 25 - [Generali Code Factor](https://extra.codemotion.com/java-developer-coding-challenge-powered-by-generali/) - Milano - Java developer coding challange.
 - 26 - [DevOpsHeroes 2019](http://www.devops-heroes.net/) - Parma - Annual conference on DevOps technologies and tools.
 - 26 - [.NET Conf 2019 Imperia](https://www.eventbrite.it/e/biglietti-net-conf-2019-imperia-71558839415) - Imperia - Microsoft .NET Conf 2019 local event.
 - 26 - [Linux Day 2019](https://www.linuxday.it/2019/) - Various Locations - the main Italian event dedicated to Linux.
