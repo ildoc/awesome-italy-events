@@ -73,7 +73,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 
 ## May
 - 2-4 - [SoCraTes IT 2019](http://www.socrates-conference.it/) - Rimini - Software Craftsmanship and Testing Conference.
-- 2-5 - [HackInBoat](https://hackinboat.it/) - Genova/Barcellona/Marsiglia - Hacking while cruising!
+- 2-5 - [HackInBoat](https://hackinboat.it/) - Genova/Barcellona/Marsiglia - Hacking while cruising.
 - 2-5 - [PyCon X](https://www.pycon.it/) - Firenze - Python's national conference.
 - 5 - [ComputationWorld 2019](https://www.iaria.org/conferences2019/ComputationWorld19.html) - Venezia - Conference about advanced cloud computing.
 - 7 - [MUSE::Next #3 - Chi controllerà l'intelligenza artificiale?](https://speckand.tech/2019/05/mn-ia/) - Trento - Speck&Tech community meetup partnered with MUSE.
@@ -119,13 +119,13 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 28 - [RomHack](https://www.romhack.io/) - Roma - Cybersecurity convention.
 
 ## October
-- 3 - [Python Firenze Meetup October 2019](https://www.meetup.com/Python-Firenze/) - Firenze - Python User Group of Firenze
+- 3 - [Python Firenze Meetup October 2019](https://www.meetup.com/Python-Firenze/) - Firenze - Python User Group of Firenze.
 - 3 - [Node.js Day 2019](https://2019.nodejsday.it/) - Verona - Node.js national conference.
 - 4 - [ReactJsDay 2019](https://www.reactjsday.it/) - Verona - React's national conference.
 - 4 - [Speck&Tech #34 - Cyber intelligence](https://speckand.tech/2019/10/cyber-intelligence/) - Trento - Speck&Tech community meetup.
 - 5 - [Introduction to conversational interfaces](https://www.meetup.com/GDG-Urbino/events/264335682) - Urbino - workshop on vocal interfaces.
 - 5-6 - [Google DevFest Campania](https://www.eventbrite.it/e/biglietti-google-devfest-campania-2019-72763009119) - Marcianise (CE) - Various technical talks and 24-hours long hackaton.
-- 7 - [Migrating to public cloud and a real-world use case of Amazon Glacier](https://www.eventbrite.it/e/biglietti-realta-aumentata-unintroduzione-allo-sviluppo-mobile-e-web-71906531371) - Ancona - Amazon Glacier real-world use case demo
+- 7 - [Migrating to public cloud and a real-world use case of Amazon Glacier](https://www.eventbrite.it/e/biglietti-realta-aumentata-unintroduzione-allo-sviluppo-mobile-e-web-71906531371) - Ancona - Amazon Glacier real-world use case demo,
 - 7 - [NG Rome](https://ngrome.io/) - Roma - Biggest Italian Angular Conference.
 - 8 - [Torino Hacknight: Hacktoberfest](https://hacktoberfest-torino.eventbrite.it/) - Torino - Digital Ocean Hacktoberfest related event.
 - 10 - [Realtà Aumentata: un'introduzione allo sviluppo mobile e web](https://www.eventbrite.it/e/biglietti-realta-aumentata-unintroduzione-allo-sviluppo-mobile-e-web-71906531371) - Pesaro - Talk, examples and live demo about the evolution of AR.
@@ -157,7 +157,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 30 - [PyRoma Meetup October 2019](https://roma.python.it/) - Roma - Python User Group of Rome.
 
 ## November
-- 2-3 - [GDG DevFest Pescara 2019](https://devfest.gdgpescara.it/) - Pescara - Conference dedicated to coding and software
+- 2-3 - [GDG DevFest Pescara 2019](https://devfest.gdgpescara.it/) - Pescara - Conference dedicated to coding and software.
 - 5 - [Digital Workplace Summit 2019](https://www.eventbrite.it/e/biglietti-digital-workplace-summit-75304524861) - Milano - Conference about working remotely.
 - 7-8 - [ContainerDay](https://www.containerday.it/) - Bologna - The italian conference dedicated to virtualization best-practices.
 - 8-9 - [Agile day(s)](https://www.agileday.it/front/) - Modena - Conference dedicated to Agile Methodologies.
@@ -168,7 +168,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 16 - [Django Girls Rome](https://djangogirls.org/rome/) - Roma - "Free programming workshop for women".
 - 22 - [FuffaDay 2019](http://www.fuffaday.org/) - Milano - Agile communication.
 - 22-23 - [WordCamp Milano 2019](https://2019.milano.wordcamp.org/) - Milano - Everything about WordPress.
-- 23 - [GDG DevFest Urbino 2019](https://www.meetup.com/it-IT/GDG-Urbino/events/264336374) - Urbino (PU) - Conference dedicated to coding and software
+- 23 - [GDG DevFest Urbino 2019](https://www.meetup.com/it-IT/GDG-Urbino/events/264336374) - Urbino (PU) - Conference dedicated to coding and software.
 - 28 - [IoT Day](http://www.iotdayit.org/) - Napoli - Conference with the main focus on the "Internet of Things".
 - 28-29 - [LaravelDay](http://www.laravelday.it/) - Verona - The italian conference dedicated to Laravel developers.
 
