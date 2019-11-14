@@ -1,4 +1,4 @@
-name: Parse to json
+name: Generate data
 
 on: [push]
 
@@ -14,17 +14,18 @@ jobs:
       uses: actions/setup-python@v1
       with:
         python-version: 3.7
+      run: pip install -r scripts/requirements.txt
     - name: Run parser
       run: |
         cd scripts
-        python parseToJson.py
+        python generate_data.py
 
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add --all
-        git commit -m "Regenerated json"
+        git commit -m "Regenerated data"
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:

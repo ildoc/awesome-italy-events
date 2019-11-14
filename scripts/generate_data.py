@@ -4,10 +4,11 @@ import json
 import codecs
 import os
 from time import strptime
-from datetime import date
+from datetime import datetime, date
+from icalendar import Calendar, Event
 
 
-class Event:
+class AwesomeEvent:
     def __init__(
         self,
         title,
@@ -85,9 +86,9 @@ for line in lista[lista.index('## January'):
         startDate = date(YEAR, month, int(params[0]))
 
     events.append(
-        Event(
-            title=params[2],
-            url=params[1],
+        AwesomeEvent(
+            title=params[1],
+            url=params[2],
             location=params[3],
             description=params[4],
             startDate=startDate,
@@ -102,6 +103,26 @@ if (os.path.exists(dataDir)):
 
 os.mkdir(dataDir)
 
+# write json
 with codecs.open(f'{dataDir}{YEAR}.json', 'w', encoding='utf-8-sig') as data:
     json.dump(events, data, indent=4, default=obj_dict,
               ensure_ascii=False)
+
+# write iCal
+cal = Calendar()
+
+for awesomeEvent in events:
+    event = Event()
+
+    event.add('summary', awesomeEvent.title)
+    event.add('dtstart', datetime.strptime(
+        f'{awesomeEvent.startDate} 08:00', '%Y-%m-%d %H:%M'))
+    event.add('dtend', datetime.strptime(
+        f'{awesomeEvent.endDate} 18:00', '%Y-%m-%d %H:%M'))
+    event.add('description',
+              f'{awesomeEvent.description} - {awesomeEvent.url}')
+    event.add('location', awesomeEvent.location)
+    cal.add_component(event)
+
+with open(f'{dataDir}{YEAR}.ics', 'wb') as ics:
+    ics.write(cal.to_ical())
