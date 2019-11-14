@@ -8,6 +8,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [What is an awesome list?](https://github.com/sindresorhus/awesome)
 - [Contribution guide](contributing.md)
 
+Available data format: [Json](data/2019.json)
+
+Past Editions: 2019
+
 ---
 
 Want to add an event? Send a [pull request](contributing.md) or send me a tweet [@il_doc](https://twitter.com/il_doc).
@@ -30,7 +34,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 
 ## January
 - 16 - [Speck&Tech #30 - Cloudy with a chance of speck](https://speckand.tech/2019/01/cloudy-with-a-chance-of-speck/) - Trento - Speck&Tech community meetup.
-- 25-27 - [Global Game Jam](https://globalgamejam.org/news/ggj19-diversifiers) - [Multiple locations](https://globalgamejam.org/2019/jam-sites?title=&country=IT) - World's largest game jam event.
+- 25-27 - [Global Game Jam](https://globalgamejam.org/news/ggj19-diversifiers) - Multiple locations - World's largest game jam event.
 
 ## February
 - 5 - [Self-driving Data Center](https://web.cvent.com/event/2f2299a5-804b-428d-93a4-80fdf4629722/websitePage:f5f7ab14-1def-48c6-9bdb-099fc8e04d64) - Bologna - Virtual nets for agile business.
@@ -42,7 +46,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 28 - [Hash Code 2019](https://www.meetup.com/GDG-Milano/events/258304715/) - Milano - Hackaton.
 
 ## March
-- 7-8 - [Incontro DevOps 2019](https://2019.incontrodevops.it/) - Bologna - Conference about DevOps, Continuous Delivery, Cloud, Microservices. 
+- 7-8 - [Incontro DevOps 2019](https://2019.incontrodevops.it/) - Bologna - Conference about DevOps, Continuous Delivery, Cloud, Microservices.
 - 11 - [DevMarche](http://dev.marche.it/eventi/2019/03/06/introduzione-allo-unit-testing-ancona-6-marzo-2019/) - Ancona - Unit testing introduction.
 - 12 - [AWS Summit](https://aws.amazon.com/it/events/summits/milan/) - Milano - Yearly Amazon Web Services cloud event.
 - 12 - [Speck&Tech in MUSE::Next #1 - Guida galattica per Specker](https://speckand.tech/2019/03/mn-guida-galattica-per-specker/) - Trento - Speck&Tech community meetup partnered with MUSE.
@@ -68,7 +72,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 13 - [Voxxed](https://voxxeddays.com/milan/) - Milano - Developers Conference (mainly Java-related).
 - 13 - [DevFest](https://devfest.gdgpisa.it/) - Pisa - Conference about Google-related technologies.
 - 16 - [Sicurezza ICT Soiel](https://soiel.it/eventi/2019/sicurezza-2019-roma/area-visitatori/contenuti/) - Roma - Security, compliance and business continuity.
-- 18 - [AWS Group Marche](https://www.meetup.com/AWS-User-Group-Marche/events/259802314/) - Ancona - First meetup of the Marche [AWS User Group](https://aws.amazon.com/developer/community/usergroups/europe/).
+- 18 - [AWS Group Marche](https://www.meetup.com/AWS-User-Group-Marche/events/259802314/) - Ancona - First meetup of the Marche AWS User Group.
 - 27 - [Global Azure Bootcamp](https://global.azurebootcamp.net/locations) - Torino/Milano/Verona/Caserta - Azure and Cloud Computing.
 
 ## May

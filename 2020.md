@@ -8,6 +8,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [What is an awesome list?](https://github.com/sindresorhus/awesome)
 - [Contribution guide](contributing.md)
 
+Available data format:
+
+Past Editions: 2019
+
 ---
 
 Want to add an event? Send a [pull request](contributing.md) or send me a tweet [@il_doc](https://twitter.com/il_doc).
