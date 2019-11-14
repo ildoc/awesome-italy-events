@@ -1006,5 +1006,13 @@
         "location": "Bolzano",
         "startDate": "2019-12-17",
         "endDate": "2019-12-17"
+    },
+    {
+        "title": "http://0.0.0.0",
+        "url": "Test github actions",
+        "description": "Testing github actions",
+        "location": "North pole",
+        "startDate": "2019-12-25",
+        "endDate": "2019-12-25"
     }
 ]

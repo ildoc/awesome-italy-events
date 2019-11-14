@@ -32,6 +32,8 @@ def obj_dict(obj):
 with codecs.open('../README.md', 'r', encoding='utf-8-sig') as raw:
     rawLines = raw.readlines()
 
+print(rawLines)
+
 heading = re.compile(
     r'# Awesome Events in Italy \(([0-9]{4}) Edition\)').split(rawLines[0])
 tokens = list(filter(lambda i: i != '', heading))
