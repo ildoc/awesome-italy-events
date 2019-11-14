@@ -181,7 +181,6 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 13 - [Django Girls Caserta](https://djangogirls.org/caserta/) - Caserta - "Free programming workshop for women".
 - 14 - [Scratch and Christmas](https://www.eventbrite.co.uk/e/scratch-and-christmas-tickets-68676107085) - Genova - Scratch for fun Christmas projects.
 - 17 - [AWSome Day](https://pages.awscloud.com/EMEA_field_T1_awsome-day-bolzano_20191712_page-registration.html) - Bolzano - AWS beginner training day.
-- 25 - [Test github actions](http://0.0.0.0) - North pole - Testing github actions.
 ---
 
 ## License
