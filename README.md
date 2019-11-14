@@ -8,7 +8,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [What is an awesome list?](https://github.com/sindresorhus/awesome)
 - [Contribution guide](contributing.md)
 
-Available data format: [Json](data/2019.json)
+Available data format: [json](data/2019.json) - [ics](data/2019.ics)
 
 Past Editions: 2019
 
