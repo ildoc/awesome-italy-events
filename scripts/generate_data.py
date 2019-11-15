@@ -4,7 +4,7 @@ import json
 import codecs
 import os
 from time import strptime
-from datetime import datetime, date
+from datetime import date, timedelta
 from icalendar import Calendar, Event
 
 
@@ -115,10 +115,9 @@ for awesomeEvent in events:
     event = Event()
 
     event.add('summary', awesomeEvent.title)
-    event.add('dtstart', datetime.strptime(
-        f'{awesomeEvent.startDate} 08:00', '%Y-%m-%d %H:%M'))
-    event.add('dtend', datetime.strptime(
-        f'{awesomeEvent.endDate} 18:00', '%Y-%m-%d %H:%M'))
+    event.add('dtstart', date.fromisoformat(awesomeEvent.startDate))
+    event.add('dtend', date.fromisoformat(
+        awesomeEvent.endDate) + timedelta(days=1))
     event.add('description',
               f'{awesomeEvent.description} - {awesomeEvent.url}')
     event.add('location', awesomeEvent.location)
