@@ -1,0 +1,90 @@
+﻿[
+    {
+        "title": "Microsoft Ignite",
+        "url": "https://www.microsoft.com/en-us/ignite",
+        "description": "Microsoft annual conference",
+        "location": "Milano",
+        "startDate": "2020-01-27",
+        "endDate": "2020-01-28"
+    },
+    {
+        "title": "Incontro DevOps",
+        "url": "https://2020.incontrodevops.it/",
+        "description": "2-day conference about DevOps",
+        "location": "Bologna",
+        "startDate": "2020-03-05",
+        "endDate": "2020-03-06"
+    },
+    {
+        "title": "CSSDay",
+        "url": "https://2020.cssday.it/",
+        "description": "Frontend developers and designers dedicated conference",
+        "location": "Faenza",
+        "startDate": "2020-03-13",
+        "endDate": "2020-03-13"
+    },
+    {
+        "title": "Codemotion",
+        "url": "https://events.codemotion.com/conferences/rome/2020/",
+        "description": "Biggest tech conference in Italy",
+        "location": "Roma",
+        "startDate": "2020-03-27",
+        "endDate": "2020-03-28"
+    },
+    {
+        "title": "Ruby Day",
+        "url": "https://2020.rubyday.it/",
+        "description": "Ruby dedicated conference",
+        "location": "Verona",
+        "startDate": "2020-04-02",
+        "endDate": "2020-04-02"
+    },
+    {
+        "title": "PyCon XI",
+        "url": "https://www.pycon.it/",
+        "description": "Python's national conference",
+        "location": "Firenze",
+        "startDate": "2020-04-02",
+        "endDate": "2020-04-05"
+    },
+    {
+        "title": "VueDay",
+        "url": "https://2020.vueday.it/",
+        "description": "Vue dedicated conference",
+        "location": "Verona",
+        "startDate": "2020-04-03",
+        "endDate": "2020-04-03"
+    },
+    {
+        "title": "DroidCon",
+        "url": "https://it.droidcon.com/2020/it",
+        "description": "Italy’s biggest Android Event",
+        "location": "Torino",
+        "startDate": "2020-04-16",
+        "endDate": "2020-04-17"
+    },
+    {
+        "title": "JSDay",
+        "url": "https://2020.jsday.it/",
+        "description": "JavaScript dedicated conference",
+        "location": "Verona",
+        "startDate": "2020-05-12",
+        "endDate": "2020-05-13"
+    },
+    {
+        "title": "PHP Day",
+        "url": "https://2020.phpday.it/",
+        "description": "PHP dedicated conference",
+        "location": "Verona",
+        "startDate": "2020-05-14",
+        "endDate": "2020-05-15"
+    },
+    {
+        "title": "Angular Day",
+        "url": "https://2020.angularday.it/",
+        "description": "Angular's national conference",
+        "location": "Verona",
+        "startDate": "2020-06-11",
+        "endDate": "2020-06-12"
+    }
+]
