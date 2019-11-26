@@ -116,10 +116,10 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 24-31 - [DevFest Levante](https://devfestlevante.eu/) - Gallipoli - Conference about Google-related technologies.
 
 ## September
-- 20 - [Scala Italy 2019](http://2018.scala-italy.it/) - Bologna - Yearly conference on the Scala programming language.
+- 20 - [Scala Italy 2019](http://2019.scala-italy.it/) - Bologna - Yearly conference on the Scala programming language.
 - 20-21 - [WordCamp Catania 2019](https://2019.catania.wordcamp.org/) - Catania - Everything about WordPress.
 - 26 - [Sicurezza ICT Soiel](https://soiel.it/eventi/2019/sicurezza-2019-torino/area-visitatori/contenuti/) - Torino - Security, compliance and business continuity.
-- 26-27 - [Node.js Italian Conference](https://2018.nodejsconf.it/) - Verona - Node.js's national conference.
+- 26-27 - [Node.js Italian Conference](https://2019.nodejsconf.it/) - Verona - Node.js's national conference.
 - 28 - [RomHack](https://www.romhack.io/) - Roma - Cybersecurity convention.
 
 ## October
