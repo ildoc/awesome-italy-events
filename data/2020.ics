@@ -24,6 +24,21 @@ DESCRIPTION:Frontend developers and designers dedicated conference - https
 LOCATION:Faenza
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:QtDay 2019
+DTSTART;VALUE=DATE:20200313
+DTEND;VALUE=DATE:20200315
+DESCRIPTION:The unique Italian conference about Qt - https://www.qtday.it/
+LOCATION:Firenze
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CloudConf 2020
+DTSTART;VALUE=DATE:20200319
+DTEND;VALUE=DATE:20200320
+DESCRIPTION:European most important conference about the cloud - https://2
+ 020.cloudconf.it/
+LOCATION:Torino
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Codemotion
 DTSTART;VALUE=DATE:20200327
 DTEND;VALUE=DATE:20200329
@@ -61,6 +76,14 @@ DESCRIPTION:Italy’s biggest Android Event - https://it.droidcon.com/2020
 LOCATION:Torino
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ItaliaSec
+DTSTART;VALUE=DATE:20200428
+DTEND;VALUE=DATE:20200430
+DESCRIPTION:This groundbreaking summit is designed for senior security lea
+ ders - https://cyberseries.io/italiasec/
+LOCATION:Milano
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:JSDay
 DTSTART;VALUE=DATE:20200512
 DTEND;VALUE=DATE:20200514
@@ -73,6 +96,14 @@ DTSTART;VALUE=DATE:20200514
 DTEND;VALUE=DATE:20200516
 DESCRIPTION:PHP dedicated conference - https://2020.phpday.it/
 LOCATION:Verona
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Voxxed
+DTSTART;VALUE=DATE:20200516
+DTEND;VALUE=DATE:20200517
+DESCRIPTION:Developers Conference (mainly Java-related) - https://voxxedda
+ ys.com/milan/
+LOCATION:Milano
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Angular Day
