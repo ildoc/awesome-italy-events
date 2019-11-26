@@ -176,6 +176,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 23 - [GDG DevFest Urbino 2019](https://www.meetup.com/it-IT/GDG-Urbino/events/264336374) - Urbino (PU) - Conference dedicated to coding and software.
 - 28 - [IoT Day](http://www.iotdayit.org/) - Napoli - Conference with the main focus on the "Internet of Things".
 - 28-29 - [LaravelDay](http://www.laravelday.it/) - Verona - The italian conference dedicated to Laravel developers.
+- 30 - [Italian C++ conference](https://www.italiancpp.org) - Parma - Italian c++ conference.
 
 ## December
 - 5 - [Python Firenze Meetup December 2019](https://www.meetup.com/Python-Firenze/) - Firenze - Python User Group of Firenze.
