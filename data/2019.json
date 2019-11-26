@@ -537,7 +537,7 @@
     },
     {
         "title": "Scala Italy 2019",
-        "url": "http://2018.scala-italy.it/",
+        "url": "http://2019.scala-italy.it/",
         "description": "Yearly conference on the Scala programming language",
         "location": "Bologna",
         "startDate": "2019-09-20",
@@ -561,7 +561,7 @@
     },
     {
         "title": "Node.js Italian Conference",
-        "url": "https://2018.nodejsconf.it/",
+        "url": "https://2019.nodejsconf.it/",
         "description": "Node.js's national conference",
         "location": "Verona",
         "startDate": "2019-09-26",
@@ -982,6 +982,14 @@
         "location": "Verona",
         "startDate": "2019-11-28",
         "endDate": "2019-11-29"
+    },
+    {
+        "title": "Italian C++ conference",
+        "url": "https://www.italiancpp.org",
+        "description": "Italian c++ conference",
+        "location": "Parma",
+        "startDate": "2019-11-30",
+        "endDate": "2019-11-30"
     },
     {
         "title": "Python Firenze Meetup December 2019",

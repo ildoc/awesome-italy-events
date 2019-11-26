@@ -8,6 +8,14 @@
         "endDate": "2020-01-28"
     },
     {
+        "title": "ServerlessDays 2020",
+        "url": "https://rome.serverlessdays.io/",
+        "description": "Developer-oriented conference about serverless technologies",
+        "location": "Milano",
+        "startDate": "2020-02-20",
+        "endDate": "2020-02-20"
+    },
+    {
         "title": "Incontro DevOps",
         "url": "https://2020.incontrodevops.it/",
         "description": "2-day conference about DevOps",
@@ -24,7 +32,7 @@
         "endDate": "2020-03-13"
     },
     {
-        "title": "QtDay 2019",
+        "title": "QtDay 2020",
         "url": "https://www.qtday.it/",
         "description": "The unique Italian conference about Qt",
         "location": "Firenze",
@@ -118,5 +126,21 @@
         "location": "Verona",
         "startDate": "2020-06-11",
         "endDate": "2020-06-12"
+    },
+    {
+        "title": "PGDay.IT",
+        "url": "https://2020.pgday.it",
+        "description": "PostgreSQL Italian conference",
+        "location": "Bergamo",
+        "startDate": "2020-06-11",
+        "endDate": "2020-06-12"
+    },
+    {
+        "title": "RomHack",
+        "url": "https://www.romhack.io/",
+        "description": "Cybersecurity convention",
+        "location": "Roma",
+        "startDate": "2020-09-26",
+        "endDate": "2020-09-26"
     }
 ]

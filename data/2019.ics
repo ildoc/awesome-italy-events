@@ -530,7 +530,7 @@ SUMMARY:Scala Italy 2019
 DTSTART;VALUE=DATE:20190920
 DTEND;VALUE=DATE:20190921
 DESCRIPTION:Yearly conference on the Scala programming language - http://2
- 018.scala-italy.it/
+ 019.scala-italy.it/
 LOCATION:Bologna
 END:VEVENT
 BEGIN:VEVENT
@@ -553,7 +553,7 @@ BEGIN:VEVENT
 SUMMARY:Node.js Italian Conference
 DTSTART;VALUE=DATE:20190926
 DTEND;VALUE=DATE:20190928
-DESCRIPTION:Node.js's national conference - https://2018.nodejsconf.it/
+DESCRIPTION:Node.js's national conference - https://2019.nodejsconf.it/
 LOCATION:Verona
 END:VEVENT
 BEGIN:VEVENT
@@ -963,6 +963,13 @@ DTEND;VALUE=DATE:20191130
 DESCRIPTION:The italian conference dedicated to Laravel developers - http:
  //www.laravelday.it/
 LOCATION:Verona
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Italian C++ conference
+DTSTART;VALUE=DATE:20191130
+DTEND;VALUE=DATE:20191201
+DESCRIPTION:Italian c++ conference - https://www.italiancpp.org
+LOCATION:Parma
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python Firenze Meetup December 2019

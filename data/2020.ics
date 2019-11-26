@@ -8,6 +8,14 @@ DESCRIPTION:Microsoft annual conference - https://www.microsoft.com/en-us/
 LOCATION:Milano
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ServerlessDays 2020
+DTSTART;VALUE=DATE:20200220
+DTEND;VALUE=DATE:20200221
+DESCRIPTION:Developer-oriented conference about serverless technologies - 
+ https://rome.serverlessdays.io/
+LOCATION:Milano
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Incontro DevOps
 DTSTART;VALUE=DATE:20200305
 DTEND;VALUE=DATE:20200307
@@ -24,7 +32,7 @@ DESCRIPTION:Frontend developers and designers dedicated conference - https
 LOCATION:Faenza
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:QtDay 2019
+SUMMARY:QtDay 2020
 DTSTART;VALUE=DATE:20200313
 DTEND;VALUE=DATE:20200315
 DESCRIPTION:The unique Italian conference about Qt - https://www.qtday.it/
@@ -111,5 +119,19 @@ DTSTART;VALUE=DATE:20200611
 DTEND;VALUE=DATE:20200613
 DESCRIPTION:Angular's national conference - https://2020.angularday.it/
 LOCATION:Verona
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PGDay.IT
+DTSTART;VALUE=DATE:20200611
+DTEND;VALUE=DATE:20200613
+DESCRIPTION:PostgreSQL Italian conference - https://2020.pgday.it
+LOCATION:Bergamo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RomHack
+DTSTART;VALUE=DATE:20200926
+DTEND;VALUE=DATE:20200927
+DESCRIPTION:Cybersecurity convention - https://www.romhack.io/
+LOCATION:Roma
 END:VEVENT
 END:VCALENDAR
