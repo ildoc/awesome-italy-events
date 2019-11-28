@@ -965,7 +965,7 @@ DESCRIPTION:The italian conference dedicated to Laravel developers - http:
 LOCATION:Verona
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Italian C++ conference
+SUMMARY:C++ Day 2019
 DTSTART;VALUE=DATE:20191130
 DTEND;VALUE=DATE:20191201
 DESCRIPTION:Italian c++ conference - https://www.italiancpp.org
