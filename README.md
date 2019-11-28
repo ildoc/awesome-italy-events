@@ -179,6 +179,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 30 - [C++ Day 2019](https://www.italiancpp.org) - Parma - Italian c++ conference.
 
 ## December
+- 3-5 - [WPC 2019](https://www.wpc2019.it/cms/it-IT/Home) - Most important italian conference about Microsoft technologies.
 - 5 - [Python Firenze Meetup December 2019](https://www.meetup.com/Python-Firenze/) - Firenze - Python User Group of Firenze.
 - 13 - [Django Girls Caserta](https://djangogirls.org/caserta/) - Caserta - "Free programming workshop for women".
 - 14 - [Scratch and Christmas](https://www.eventbrite.co.uk/e/scratch-and-christmas-tickets-68676107085) - Genova - Scratch for fun Christmas projects.
