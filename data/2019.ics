@@ -927,6 +927,14 @@ DESCRIPTION:"Free programming workshop for women" - https://djangogirls.or
 LOCATION:Roma
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Red Hat Open source day
+DTSTART;VALUE=DATE:20191120
+DTEND;VALUE=DATE:20191121
+DESCRIPTION:Open source dedicated conference - https://www.redhat.com/it/e
+ vents/red-hat-open-source-day-italia
+LOCATION:Roma
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FuffaDay 2019
 DTSTART;VALUE=DATE:20191122
 DTEND;VALUE=DATE:20191123
@@ -972,12 +980,53 @@ DESCRIPTION:Italian c++ conference - https://www.italiancpp.org
 LOCATION:Parma
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Red Hat Open source day
+DTSTART;VALUE=DATE:20191203
+DTEND;VALUE=DATE:20191204
+DESCRIPTION:Open source dedicated conference - https://www.redhat.com/it/e
+ vents/red-hat-open-source-day-italia
+LOCATION:Milano
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPC 2019
+DTSTART;VALUE=DATE:20191203
+DTEND;VALUE=DATE:20191206
+DESCRIPTION:Most important italian conference about Microsoft technologies
+  - https://www.wpc2019.it/cms/it-IT/Home
+LOCATION:Milano
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Python Firenze Meetup December 2019
 DTSTART;VALUE=DATE:20191205
 DTEND;VALUE=DATE:20191206
 DESCRIPTION:Python User Group of Firenze - https://www.meetup.com/Python-F
  irenze/
 LOCATION:Firenze
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HackNight 2019
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DESCRIPTION:Networking at the intersection between AI and Design - https:/
+ /www.eventbrite.com/e/hacknight-2019-adaptive-ui-challenge-registration-80
+ 833720835
+LOCATION:Roma
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Firenze Blockchain day
+DTSTART;VALUE=DATE:20191206
+DTEND;VALUE=DATE:20191207
+DESCRIPTION:Blockchain Economy\, today - https://www.eventbrite.it/e/bigli
+ etti-firenze-blockchain-day-77871827733
+LOCATION:Firenze
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cyber Warfare Conference
+DTSTART;VALUE=DATE:20191212
+DTEND;VALUE=DATE:20191213
+DESCRIPTION:Evolution and new frontiers of warfare (Information\, Cyber an
+ d Hybrid) - https://www.eucacs.org/en/
+LOCATION:Milano
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Django Girls Caserta

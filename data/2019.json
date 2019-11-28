@@ -944,6 +944,14 @@
         "endDate": "2019-11-16"
     },
     {
+        "title": "Red Hat Open source day",
+        "url": "https://www.redhat.com/it/events/red-hat-open-source-day-italia",
+        "description": "Open source dedicated conference",
+        "location": "Roma",
+        "startDate": "2019-11-20",
+        "endDate": "2019-11-20"
+    },
+    {
         "title": "FuffaDay 2019",
         "url": "http://www.fuffaday.org/",
         "description": "Agile communication",
@@ -992,12 +1000,52 @@
         "endDate": "2019-11-30"
     },
     {
+        "title": "Red Hat Open source day",
+        "url": "https://www.redhat.com/it/events/red-hat-open-source-day-italia",
+        "description": "Open source dedicated conference",
+        "location": "Milano",
+        "startDate": "2019-12-03",
+        "endDate": "2019-12-03"
+    },
+    {
+        "title": "WPC 2019",
+        "url": "https://www.wpc2019.it/cms/it-IT/Home",
+        "description": "Most important italian conference about Microsoft technologies",
+        "location": "Milano",
+        "startDate": "2019-12-03",
+        "endDate": "2019-12-05"
+    },
+    {
         "title": "Python Firenze Meetup December 2019",
         "url": "https://www.meetup.com/Python-Firenze/",
         "description": "Python User Group of Firenze",
         "location": "Firenze",
         "startDate": "2019-12-05",
         "endDate": "2019-12-05"
+    },
+    {
+        "title": "HackNight 2019",
+        "url": "https://www.eventbrite.com/e/hacknight-2019-adaptive-ui-challenge-registration-80833720835",
+        "description": "Networking at the intersection between AI and Design",
+        "location": "Roma",
+        "startDate": "2019-12-05",
+        "endDate": "2019-12-05"
+    },
+    {
+        "title": "Firenze Blockchain day",
+        "url": "https://www.eventbrite.it/e/biglietti-firenze-blockchain-day-77871827733",
+        "description": "Blockchain Economy, today",
+        "location": "Firenze",
+        "startDate": "2019-12-06",
+        "endDate": "2019-12-06"
+    },
+    {
+        "title": "Cyber Warfare Conference",
+        "url": "https://www.eucacs.org/en/",
+        "description": "Evolution and new frontiers of warfare (Information, Cyber and Hybrid)",
+        "location": "Milano",
+        "startDate": "2019-12-12",
+        "endDate": "2019-12-12"
     },
     {
         "title": "Django Girls Caserta",
