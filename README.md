@@ -171,6 +171,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 15 - [PyRoma Meetup November 2019](https://roma.python.it/) - Roma - Python User Group of Rome.
 - 16 - [Visual Studio Saturday](https://sessionize.com/vssatpn19) - Pordenone - .Net and Visual Studio ecosystem conference.
 - 16 - [Django Girls Rome](https://djangogirls.org/rome/) - Roma - "Free programming workshop for women".
+- 20 - [Red Hat Open source day](https://www.redhat.com/it/events/red-hat-open-source-day-italia) - Roma - Open source dedicated conference.
 - 22 - [FuffaDay 2019](http://www.fuffaday.org/) - Milano - Agile communication.
 - 22-23 - [WordCamp Milano 2019](https://2019.milano.wordcamp.org/) - Milano - Everything about WordPress.
 - 23 - [GDG DevFest Urbino 2019](https://www.meetup.com/it-IT/GDG-Urbino/events/264336374) - Urbino (PU) - Conference dedicated to coding and software.
@@ -179,7 +180,8 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 30 - [C++ Day 2019](https://www.italiancpp.org) - Parma - Italian c++ conference.
 
 ## December
-- 3-5 - [WPC 2019](https://www.wpc2019.it/cms/it-IT/Home) - Most important italian conference about Microsoft technologies.
+- 3 - [Red Hat Open source day](https://www.redhat.com/it/events/red-hat-open-source-day-italia) - Milano - Open source dedicated conference.
+- 3-5 - [WPC 2019](https://www.wpc2019.it/cms/it-IT/Home) - Milano - Most important italian conference about Microsoft technologies.
 - 5 - [Python Firenze Meetup December 2019](https://www.meetup.com/Python-Firenze/) - Firenze - Python User Group of Firenze.
 - 13 - [Django Girls Caserta](https://djangogirls.org/caserta/) - Caserta - "Free programming workshop for women".
 - 14 - [Scratch and Christmas](https://www.eventbrite.co.uk/e/scratch-and-christmas-tickets-68676107085) - Genova - Scratch for fun Christmas projects.
