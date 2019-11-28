@@ -183,6 +183,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 3 - [Red Hat Open source day](https://www.redhat.com/it/events/red-hat-open-source-day-italia) - Milano - Open source dedicated conference.
 - 3-5 - [WPC 2019](https://www.wpc2019.it/cms/it-IT/Home) - Milano - Most important italian conference about Microsoft technologies.
 - 5 - [Python Firenze Meetup December 2019](https://www.meetup.com/Python-Firenze/) - Firenze - Python User Group of Firenze.
+- 5 - [HackNight 2019](https://www.eventbrite.com/e/hacknight-2019-adaptive-ui-challenge-registration-80833720835) - Roma - Networking at the intersection between AI and Design.
 - 13 - [Django Girls Caserta](https://djangogirls.org/caserta/) - Caserta - "Free programming workshop for women".
 - 14 - [Scratch and Christmas](https://www.eventbrite.co.uk/e/scratch-and-christmas-tickets-68676107085) - Genova - Scratch for fun Christmas projects.
 - 17 - [AWSome Day](https://pages.awscloud.com/EMEA_field_T1_awsome-day-bolzano_20191712_page-registration.html) - Bolzano - AWS beginner training day.
