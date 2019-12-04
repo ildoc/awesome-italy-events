@@ -10,7 +10,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 Available data format:
 
-Past Editions: 2019
+Editions: [2019](README.md) [2020](2020.md)
 
 ---
 
