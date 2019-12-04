@@ -47,6 +47,14 @@ DESCRIPTION:European most important conference about the cloud - https://2
 LOCATION:Torino
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:European Immersive Computing Summit 2020
+DTSTART;VALUE=DATE:20200325
+DTEND;VALUE=DATE:20200327
+DESCRIPTION:The European Summit on Emerging Technologies - https://eicsumm
+ it.com/
+LOCATION:Milano
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Codemotion
 DTSTART;VALUE=DATE:20200327
 DTEND;VALUE=DATE:20200329
