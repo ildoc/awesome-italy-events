@@ -1041,6 +1041,14 @@ SUMMARY:Global AI Bootcamp
 DTSTART;VALUE=DATE:20191214
 DTEND;VALUE=DATE:20191215
 DESCRIPTION:Artificial intelligence on Microsoft Azure - https://globalai.
+ community/global-ai-bootcamp/italy-torino
+LOCATION:Torino
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Global AI Bootcamp
+DTSTART;VALUE=DATE:20191214
+DTEND;VALUE=DATE:20191215
+DESCRIPTION:Artificial intelligence on Microsoft Azure - https://globalai.
  community/global-ai-bootcamp/italy-caserta
 LOCATION:Caserta
 END:VEVENT

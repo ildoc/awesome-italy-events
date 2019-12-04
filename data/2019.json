@@ -1057,6 +1057,14 @@
     },
     {
         "title": "Global AI Bootcamp",
+        "url": "https://globalai.community/global-ai-bootcamp/italy-torino",
+        "description": "Artificial intelligence on Microsoft Azure",
+        "location": "Torino",
+        "startDate": "2019-12-14",
+        "endDate": "2019-12-14"
+    },
+    {
+        "title": "Global AI Bootcamp",
         "url": "https://globalai.community/global-ai-bootcamp/italy-caserta",
         "description": "Artificial intelligence on Microsoft Azure",
         "location": "Caserta",
