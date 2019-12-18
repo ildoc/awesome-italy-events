@@ -904,6 +904,14 @@
         "endDate": "2019-11-09"
     },
     {
+        "title": "HackInBo",
+        "url": "https://www.hackinbo.it/",
+        "description": "Free IT security event",
+        "location": "Bologna",
+        "startDate": "2019-11-09",
+        "endDate": "2019-11-09"
+    },
+    {
         "title": ".Net Conf 2019",
         "url": "https://www.eventbrite.it/e/biglietti-net-conf-2019-whats-new-in-net-ecosystem-70140288491",
         "description": "Local .Net Conf 2019 event",
