@@ -8,6 +8,14 @@ DESCRIPTION:Microsoft annual conference - https://www.microsoft.com/en-us/
 LOCATION:Milano
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:IxDA
+DTSTART;VALUE=DATE:20200202
+DTEND;VALUE=DATE:20200208
+DESCRIPTION:Design focused workshops and talks - https://interaction20.ixd
+ a.org/
+LOCATION:Milano
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ServerlessDays 2020
 DTSTART;VALUE=DATE:20200220
 DTEND;VALUE=DATE:20200221
