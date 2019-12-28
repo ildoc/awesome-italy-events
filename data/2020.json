@@ -1,11 +1,51 @@
 ﻿[
     {
+        "title": "Milano Live Coding",
+        "url": "https://www.eventbrite.it/e/biglietti-milano-live-coding-14-gennaio-2020-87088150001",
+        "description": "Creative coding with three.js",
+        "location": "Milano",
+        "startDate": "2020-01-14",
+        "endDate": "2020-01-14"
+    },
+    {
+        "title": "Torino Hacknight",
+        "url": "http://torino.hacknight.it/",
+        "description": "Open source hackaton about Userbase",
+        "location": "Torino",
+        "startDate": "2020-01-21",
+        "endDate": "2020-01-21"
+    },
+    {
+        "title": "Modena Tech Summit",
+        "url": "https://www.modenatechsummit.it/",
+        "description": "Techincal conference on all the IT world",
+        "location": "Modena",
+        "startDate": "2020-01-25",
+        "endDate": "2020-01-25"
+    },
+    {
+        "title": "Hackafork",
+        "url": "https://www.eventbrite.com/e/hackafork-tickets-82168184251",
+        "description": "First food dedicated italian hackaton",
+        "location": "Fornovo di Taro",
+        "startDate": "2020-01-25",
+        "endDate": "2020-01-26"
+    },
+    {
         "title": "Microsoft Ignite",
         "url": "https://www.microsoft.com/en-us/ignite",
         "description": "Microsoft annual conference",
         "location": "Milano",
         "startDate": "2020-01-27",
         "endDate": "2020-01-28"
+    },
+    {
+        "title": "Global Game Jam",
+        "url": "https://globalgamejam.org/",
+        "description": "Get together and create games in one weekend",
+        "location": "Milano",
+        "startDate": "2020-01-31",
+        "endDate": "2020-02-02"
     },
     {
         "title": "IxDA",
@@ -150,6 +190,14 @@
         "location": "Bergamo",
         "startDate": "2020-06-11",
         "endDate": "2020-06-12"
+    },
+    {
+        "title": "Italian C++ Conference",
+        "url": "https://www.italiancpp.org/event/itcppcon20/",
+        "description": "Italian C++ conference",
+        "location": "Roma",
+        "startDate": "2020-06-13",
+        "endDate": "2020-06-13"
     },
     {
         "title": "RomHack",

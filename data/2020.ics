@@ -1,10 +1,50 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
+SUMMARY:Milano Live Coding
+DTSTART;VALUE=DATE:20200114
+DTEND;VALUE=DATE:20200115
+DESCRIPTION:Creative coding with three.js - https://www.eventbrite.it/e/bi
+ glietti-milano-live-coding-14-gennaio-2020-87088150001
+LOCATION:Milano
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Torino Hacknight
+DTSTART;VALUE=DATE:20200121
+DTEND;VALUE=DATE:20200122
+DESCRIPTION:Open source hackaton about Userbase - http://torino.hacknight.
+ it/
+LOCATION:Torino
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Modena Tech Summit
+DTSTART;VALUE=DATE:20200125
+DTEND;VALUE=DATE:20200126
+DESCRIPTION:Techincal conference on all the IT world - https://www.modenat
+ echsummit.it/
+LOCATION:Modena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hackafork
+DTSTART;VALUE=DATE:20200125
+DTEND;VALUE=DATE:20200127
+DESCRIPTION:First food dedicated italian hackaton - https://www.eventbrite
+ .com/e/hackafork-tickets-82168184251
+LOCATION:Fornovo di Taro
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Microsoft Ignite
 DTSTART;VALUE=DATE:20200127
 DTEND;VALUE=DATE:20200129
 DESCRIPTION:Microsoft annual conference - https://www.microsoft.com/en-us/
  ignite
+LOCATION:Milano
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Global Game Jam
+DTSTART;VALUE=DATE:20200131
+DTEND;VALUE=DATE:20200203
+DESCRIPTION:Get together and create games in one weekend - https://globalg
+ amejam.org/
 LOCATION:Milano
 END:VEVENT
 BEGIN:VEVENT
@@ -142,6 +182,14 @@ DTSTART;VALUE=DATE:20200611
 DTEND;VALUE=DATE:20200613
 DESCRIPTION:PostgreSQL Italian conference - https://2020.pgday.it
 LOCATION:Bergamo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Italian C++ Conference
+DTSTART;VALUE=DATE:20200613
+DTEND;VALUE=DATE:20200614
+DESCRIPTION:Italian C++ conference - https://www.italiancpp.org/event/itcp
+ pcon20/
+LOCATION:Roma
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RomHack

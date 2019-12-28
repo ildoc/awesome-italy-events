@@ -1047,8 +1047,8 @@ BEGIN:VEVENT
 SUMMARY:Django Girls Caserta
 DTSTART;VALUE=DATE:20191213
 DTEND;VALUE=DATE:20191214
-DESCRIPTION:"Free programming workshop for women" - https://djangogirls.or
- g/caserta/
+DESCRIPTION:Free programming workshop for women - https://djangogirls.org/
+ caserta/
 LOCATION:Caserta
 END:VEVENT
 BEGIN:VEVENT
