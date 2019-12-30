@@ -36,7 +36,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 14 - [Milano Live Coding](https://www.eventbrite.it/e/biglietti-milano-live-coding-14-gennaio-2020-87088150001) - Milano - Creative coding with three.js.
 - 21 - [Torino Hacknight](http://torino.hacknight.it/) - Torino - Open source hackaton about Userbase.
 - 25 - [Modena Tech Summit](https://www.modenatechsummit.it/) - Modena - Techincal conference on all the IT world.
-- 25-26 - [Hackafork](https://www.eventbrite.com/e/hackafork-tickets-82168184251) - Fornovo di Taro - First food dedicated italian hackaton.
+- 25-26 - [Hackafork](https://www.hackathon.com/event/hackafork-82168184251) - Fornovo di Taro - First food dedicated italian hackaton.
 - 27-28 - [Microsoft Ignite](https://www.microsoft.com/en-us/ignite) - Milano - Microsoft annual conference.
 - 31-February 2 - [Global Game Jam](https://globalgamejam.org/) - Milano - Get together and create games in one weekend.
 
@@ -48,7 +48,8 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 ## March
 - 4 - [A4I Agile for Innovation](https://www.agileforinnovation.com/) - Milano - How Agile concept is evolving in IT and more.
 - 5-6 - [Incontro DevOps](https://2020.incontrodevops.it/) - Bologna - 2-day conference about DevOps.
-- 13 - [CSSDay](https://2020.cssday.it/) - Faenza - Frontend developers and designers dedicated conference.
+- 6-8 - [Agile People Camp](https://agilemovement.it/agilepeoplecamp/) - Montegrotto Terme (PD) - Human side of Agile.
+- 13 - [CSSDay](https://2020.cssday.it/) - Faenza (RA) - Frontend developers and designers dedicated conference.
 - 13-14 - [QtDay 2020](https://www.qtday.it/) - Firenze - The unique Italian conference about Qt.
 - 19 - [CloudConf 2020](https://2020.cloudconf.it/) - Torino - European most important conference about the cloud.
 - 25-26 - [European Immersive Computing Summit 2020](https://eicsummit.com/) - Milano - The European Summit on Emerging Technologies.
