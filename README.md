@@ -41,6 +41,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 31-February 2 - [Global Game Jam](https://globalgamejam.org/) - Milano - Get together and create games in one weekend.
 
 ## February
+- 1 - [Agile Venture Milano 2020](https://www.agilemovement.it/venture/2020/milano/) - Milano - Agile in the landscape of emerging technologies.
 - 2-7 - [IxDA](https://interaction20.ixda.org/) - Milano - Design focused workshops and talks.
 - 20 - [ServerlessDays 2020](https://rome.serverlessdays.io/) - Milano - Developer-oriented conference about serverless technologies.
 
