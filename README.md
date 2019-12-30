@@ -46,6 +46,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 20 - [ServerlessDays 2020](https://rome.serverlessdays.io/) - Milano - Developer-oriented conference about serverless technologies.
 
 ## March
+- 4 - [A4I Agile for Innovation](https://www.agileforinnovation.com/) - Milano - How Agile concept is evolving in IT and more.
 - 5-6 - [Incontro DevOps](https://2020.incontrodevops.it/) - Bologna - 2-day conference about DevOps.
 - 13 - [CSSDay](https://2020.cssday.it/) - Faenza - Frontend developers and designers dedicated conference.
 - 13-14 - [QtDay 2020](https://www.qtday.it/) - Firenze - The unique Italian conference about Qt.
