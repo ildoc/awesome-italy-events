@@ -66,7 +66,8 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 ## May
 - 12-13 - [JSDay](https://2020.jsday.it/) - Verona - JavaScript dedicated conference.
 - 14-15 - [PHP Day](https://2020.phpday.it/) - Verona - PHP dedicated conference.
-- 16 - [Voxxed](https://voxxeddays.com/milan/) - Milano - Developers Conference (mainly Java-related).
+- 16 - [Voxxed Days](https://voxxeddays.com/milan/) - Milano - Developers Conference (mainly Java-related).
+- 23 - [Agile Venture Vimercate](https://agilemovement.it/2019/11/01/agile-venture-vimercate-2020/) - Vimercate - The agile way to testing.
 
 ## June
 - 11-12 - [Angular Day](https://2020.angularday.it/) - Verona - Angular's national conference.
