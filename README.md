@@ -54,6 +54,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 19 - [CloudConf 2020](https://2020.cloudconf.it/) - Torino - European most important conference about the cloud.
 - 25-26 - [European Immersive Computing Summit 2020](https://eicsummit.com/) - Milano - The European Summit on Emerging Technologies.
 - 27-28 - [Codemotion](https://events.codemotion.com/conferences/rome/2020/) - Roma - Biggest tech conference in Italy.
+- 28 - [Agile People Day](https://www.agilepeopleday.com/) - Bologna - Individuals and Interactions Over Processes And Tools.
 
 ## April
 - 2 - [Ruby Day](https://2020.rubyday.it/) - Verona - Ruby dedicated conference.
