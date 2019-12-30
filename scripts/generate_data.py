@@ -126,7 +126,7 @@ def write_ical(events, year, dataDir):
         ics.write(cal.to_ical())
 
 
-files = ['../README.md', '../2020.md']
+files = ['../README.md', '../2021.md', '../archive/2019.md']
 dataDir = '../data/'
 
 if not os.path.exists(dataDir):
