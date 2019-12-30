@@ -80,6 +80,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 ## August
 
 ## September
+- 11-12 - [Agile Business Day](https://www.agilebusinessday.com/en/agile-business-day-2-2/) - Venezia - The business, techincal and human-side of Agile.
 - 26 - [RomHack](https://www.romhack.io/) - Roma - Cybersecurity convention.
 
 ## October
