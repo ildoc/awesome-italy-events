@@ -27,8 +27,8 @@ BEGIN:VEVENT
 SUMMARY:Hackafork
 DTSTART;VALUE=DATE:20200125
 DTEND;VALUE=DATE:20200127
-DESCRIPTION:First food dedicated italian hackaton - https://www.eventbrite
- .com/e/hackafork-tickets-82168184251
+DESCRIPTION:First food dedicated italian hackaton - https://www.hackathon.
+ com/event/hackafork-82168184251
 LOCATION:Fornovo di Taro
 END:VEVENT
 BEGIN:VEVENT
@@ -48,6 +48,14 @@ DESCRIPTION:Get together and create games in one weekend - https://globalg
 LOCATION:Milano
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Agile Venture Milano 2020
+DTSTART;VALUE=DATE:20200201
+DTEND;VALUE=DATE:20200202
+DESCRIPTION:Agile in the landscape of emerging technologies - https://www.
+ agilemovement.it/venture/2020/milano/
+LOCATION:Milano
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:IxDA
 DTSTART;VALUE=DATE:20200202
 DTEND;VALUE=DATE:20200208
@@ -64,6 +72,14 @@ DESCRIPTION:Developer-oriented conference about serverless technologies -
 LOCATION:Milano
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A4I Agile for Innovation
+DTSTART;VALUE=DATE:20200304
+DTEND;VALUE=DATE:20200305
+DESCRIPTION:How Agile concept is evolving in IT and more - https://www.agi
+ leforinnovation.com/
+LOCATION:Milano
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Incontro DevOps
 DTSTART;VALUE=DATE:20200305
 DTEND;VALUE=DATE:20200307
@@ -72,12 +88,20 @@ DESCRIPTION:2-day conference about DevOps - https://2020.incontrodevops.it
 LOCATION:Bologna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Agile People Camp
+DTSTART;VALUE=DATE:20200306
+DTEND;VALUE=DATE:20200309
+DESCRIPTION:Human side of Agile - https://agilemovement.it/agilepeoplecamp
+ /
+LOCATION:Montegrotto Terme (PD)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CSSDay
 DTSTART;VALUE=DATE:20200313
 DTEND;VALUE=DATE:20200314
 DESCRIPTION:Frontend developers and designers dedicated conference - https
  ://2020.cssday.it/
-LOCATION:Faenza
+LOCATION:Faenza (RA)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:QtDay 2020
@@ -109,6 +133,14 @@ DTEND;VALUE=DATE:20200329
 DESCRIPTION:Biggest tech conference in Italy - https://events.codemotion.c
  om/conferences/rome/2020/
 LOCATION:Roma
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agile People Day
+DTSTART;VALUE=DATE:20200328
+DTEND;VALUE=DATE:20200329
+DESCRIPTION:Individuals and Interactions Over Processes And Tools - https:
+ //www.agilepeopleday.com/
+LOCATION:Bologna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ruby Day
@@ -162,11 +194,27 @@ DESCRIPTION:PHP dedicated conference - https://2020.phpday.it/
 LOCATION:Verona
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Voxxed
+SUMMARY:Voxxed Days
 DTSTART;VALUE=DATE:20200516
 DTEND;VALUE=DATE:20200517
 DESCRIPTION:Developers Conference (mainly Java-related) - https://voxxedda
  ys.com/milan/
+LOCATION:Milano
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agile Venture Vimercate
+DTSTART;VALUE=DATE:20200523
+DTEND;VALUE=DATE:20200524
+DESCRIPTION:The agile way to testing - https://agilemovement.it/2019/11/01
+ /agile-venture-vimercate-2020/
+LOCATION:Vimercate
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serverless Days
+DTSTART;VALUE=DATE:20200605
+DTEND;VALUE=DATE:20200606
+DESCRIPTION:Developer-oriented conference about serverless technologies - 
+ https://milan.serverlessdays.io/
 LOCATION:Milano
 END:VEVENT
 BEGIN:VEVENT
@@ -192,10 +240,33 @@ DESCRIPTION:Italian C++ conference - https://www.italiancpp.org/event/itcp
 LOCATION:Roma
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Agile Business Day
+DTSTART;VALUE=DATE:20200911
+DTEND;VALUE=DATE:20200913
+DESCRIPTION:The business\, techincal and human-side of Agile - https://www
+ .agilebusinessday.com/en/agile-business-day-2-2/
+LOCATION:Venezia
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:RomHack
 DTSTART;VALUE=DATE:20200926
 DTEND;VALUE=DATE:20200927
 DESCRIPTION:Cybersecurity convention - https://www.romhack.io/
 LOCATION:Roma
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ReactJSDay
+DTSTART;VALUE=DATE:20201016
+DTEND;VALUE=DATE:20201017
+DESCRIPTION:React's national conference - http://reactjsday.it/
+LOCATION:Verona
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ContainerDay
+DTSTART;VALUE=DATE:20201022
+DTEND;VALUE=DATE:20201024
+DESCRIPTION:The italian conference dedicated to virtualization best-practi
+ ces - https://www.containerday.it/
+LOCATION:Bologna
 END:VEVENT
 END:VCALENDAR

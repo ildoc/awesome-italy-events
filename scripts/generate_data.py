@@ -44,15 +44,17 @@ def parse_data(path):
 
     month = 0
     events = []
+    debugIndex = lista.index('## January') - 1
 
     for line in lista[lista.index('## January'):
                       len(lista) - 1 - lista[::-1].index('---')]:
         line = line + ''
+        debugIndex += 1
 
         startDate = None
         endDate = None
 
-        if line == '':
+        if line.strip() == '':
             continue
 
         if line.startswith('##'):
@@ -65,7 +67,7 @@ def parse_data(path):
         params = list(filter(lambda i: i != '', chunks))
 
         if len(params) != 5:
-            raise ValueError(line)
+            raise ValueError(f'line {debugIndex}: {line}')
 
         if params[0].find('-') > 0:
             days = params[0].split('-')
@@ -140,4 +142,4 @@ for file in files:
         write_json(events, year, dataDir)
         write_ical(events, year, dataDir)
     except ValueError as e:
-        raise Exception(f'Failed parsing line {e.args}')
+        raise Exception(f'Parse failed {e.args} - ({file})')

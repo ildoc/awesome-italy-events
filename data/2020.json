@@ -25,7 +25,7 @@
     },
     {
         "title": "Hackafork",
-        "url": "https://www.eventbrite.com/e/hackafork-tickets-82168184251",
+        "url": "https://www.hackathon.com/event/hackafork-82168184251",
         "description": "First food dedicated italian hackaton",
         "location": "Fornovo di Taro",
         "startDate": "2020-01-25",
@@ -48,6 +48,14 @@
         "endDate": "2020-02-02"
     },
     {
+        "title": "Agile Venture Milano 2020",
+        "url": "https://www.agilemovement.it/venture/2020/milano/",
+        "description": "Agile in the landscape of emerging technologies",
+        "location": "Milano",
+        "startDate": "2020-02-01",
+        "endDate": "2020-02-01"
+    },
+    {
         "title": "IxDA",
         "url": "https://interaction20.ixda.org/",
         "description": "Design focused workshops and talks",
@@ -64,6 +72,14 @@
         "endDate": "2020-02-20"
     },
     {
+        "title": "A4I Agile for Innovation",
+        "url": "https://www.agileforinnovation.com/",
+        "description": "How Agile concept is evolving in IT and more",
+        "location": "Milano",
+        "startDate": "2020-03-04",
+        "endDate": "2020-03-04"
+    },
+    {
         "title": "Incontro DevOps",
         "url": "https://2020.incontrodevops.it/",
         "description": "2-day conference about DevOps",
@@ -72,10 +88,18 @@
         "endDate": "2020-03-06"
     },
     {
+        "title": "Agile People Camp",
+        "url": "https://agilemovement.it/agilepeoplecamp/",
+        "description": "Human side of Agile",
+        "location": "Montegrotto Terme (PD)",
+        "startDate": "2020-03-06",
+        "endDate": "2020-03-08"
+    },
+    {
         "title": "CSSDay",
         "url": "https://2020.cssday.it/",
         "description": "Frontend developers and designers dedicated conference",
-        "location": "Faenza",
+        "location": "Faenza (RA)",
         "startDate": "2020-03-13",
         "endDate": "2020-03-13"
     },
@@ -109,6 +133,14 @@
         "description": "Biggest tech conference in Italy",
         "location": "Roma",
         "startDate": "2020-03-27",
+        "endDate": "2020-03-28"
+    },
+    {
+        "title": "Agile People Day",
+        "url": "https://www.agilepeopleday.com/",
+        "description": "Individuals and Interactions Over Processes And Tools",
+        "location": "Bologna",
+        "startDate": "2020-03-28",
         "endDate": "2020-03-28"
     },
     {
@@ -168,12 +200,28 @@
         "endDate": "2020-05-15"
     },
     {
-        "title": "Voxxed",
+        "title": "Voxxed Days",
         "url": "https://voxxeddays.com/milan/",
         "description": "Developers Conference (mainly Java-related)",
         "location": "Milano",
         "startDate": "2020-05-16",
         "endDate": "2020-05-16"
+    },
+    {
+        "title": "Agile Venture Vimercate",
+        "url": "https://agilemovement.it/2019/11/01/agile-venture-vimercate-2020/",
+        "description": "The agile way to testing",
+        "location": "Vimercate",
+        "startDate": "2020-05-23",
+        "endDate": "2020-05-23"
+    },
+    {
+        "title": "Serverless Days",
+        "url": "https://milan.serverlessdays.io/",
+        "description": "Developer-oriented conference about serverless technologies",
+        "location": "Milano",
+        "startDate": "2020-06-05",
+        "endDate": "2020-06-05"
     },
     {
         "title": "Angular Day",
@@ -200,11 +248,35 @@
         "endDate": "2020-06-13"
     },
     {
+        "title": "Agile Business Day",
+        "url": "https://www.agilebusinessday.com/en/agile-business-day-2-2/",
+        "description": "The business, techincal and human-side of Agile",
+        "location": "Venezia",
+        "startDate": "2020-09-11",
+        "endDate": "2020-09-12"
+    },
+    {
         "title": "RomHack",
         "url": "https://www.romhack.io/",
         "description": "Cybersecurity convention",
         "location": "Roma",
         "startDate": "2020-09-26",
         "endDate": "2020-09-26"
+    },
+    {
+        "title": "ReactJSDay",
+        "url": "http://reactjsday.it/",
+        "description": "React's national conference",
+        "location": "Verona",
+        "startDate": "2020-10-16",
+        "endDate": "2020-10-16"
+    },
+    {
+        "title": "ContainerDay",
+        "url": "https://www.containerday.it/",
+        "description": "The italian conference dedicated to virtualization best-practices",
+        "location": "Bologna",
+        "startDate": "2020-10-22",
+        "endDate": "2020-10-23"
     }
 ]
