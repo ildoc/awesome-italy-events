@@ -84,6 +84,8 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 26 - [RomHack](https://www.romhack.io/) - Roma - Cybersecurity convention.
 
 ## October
+- 16 - [ReactJSDay](http://reactjsday.it/) - Verona - React's national conference.
+- 22-23 - [ContainerDay](https://www.containerday.it/) - Bologna - The italian conference dedicated to virtualization best-practices.
 
 ## November
 
