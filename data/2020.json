@@ -64,6 +64,14 @@
         "endDate": "2020-02-07"
     },
     {
+        "title": "Global Power Platform Bootcamp 2020",
+        "url": "https://www.eventbrite.it/e/biglietti-global-power-platform-bootcamp-2020-milan-88686085469",
+        "description": "Microsoft’s Power Platform focused event",
+        "location": "Milano",
+        "startDate": "2020-02-15",
+        "endDate": "2020-02-15"
+    },
+    {
         "title": "ServerlessDays 2020",
         "url": "https://rome.serverlessdays.io/",
         "description": "Developer-oriented conference about serverless technologies",

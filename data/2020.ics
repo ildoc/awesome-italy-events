@@ -64,6 +64,14 @@ DESCRIPTION:Design focused workshops and talks - https://interaction20.ixd
 LOCATION:Milano
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Global Power Platform Bootcamp 2020
+DTSTART;VALUE=DATE:20200215
+DTEND;VALUE=DATE:20200216
+DESCRIPTION:Microsoft’s Power Platform focused event - https://www.event
+ brite.it/e/biglietti-global-power-platform-bootcamp-2020-milan-88686085469
+LOCATION:Milano
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ServerlessDays 2020
 DTSTART;VALUE=DATE:20200220
 DTEND;VALUE=DATE:20200221
