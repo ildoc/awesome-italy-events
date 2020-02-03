@@ -45,7 +45,7 @@ DTSTART;VALUE=DATE:20200131
 DTEND;VALUE=DATE:20200203
 DESCRIPTION:Get together and create games in one weekend - https://globalg
  amejam.org/
-LOCATION:Milano
+LOCATION:Multiple locations
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile Venture Milano 2020
@@ -64,6 +64,13 @@ DESCRIPTION:Design focused workshops and talks - https://interaction20.ixd
 LOCATION:Milano
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ITASEC 2020
+DTSTART;VALUE=DATE:20200204
+DTEND;VALUE=DATE:20200208
+DESCRIPTION:Cybersecurity italian conference - https://itasec.it/
+LOCATION:Ancona
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Global Power Platform Bootcamp 2020
 DTSTART;VALUE=DATE:20200215
 DTEND;VALUE=DATE:20200216
@@ -73,8 +80,8 @@ LOCATION:Milano
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ServerlessDays 2020
-DTSTART;VALUE=DATE:20200220
-DTEND;VALUE=DATE:20200221
+DTSTART;VALUE=DATE:20200221
+DTEND;VALUE=DATE:20200222
 DESCRIPTION:Developer-oriented conference about serverless technologies - 
  https://rome.serverlessdays.io/
 LOCATION:Milano
