@@ -165,6 +165,14 @@ DESCRIPTION:Ruby dedicated conference - https://2020.rubyday.it/
 LOCATION:Verona
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BeConnected Day 2020
+DTSTART;VALUE=DATE:20200402
+DTEND;VALUE=DATE:20200403
+DESCRIPTION:Intelligent Communications e Modern Workplace - https://www.ev
+ entbrite.it/e/registrazione-beconnected-day-2020-92290708995
+LOCATION:Milano
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PyCon XI
 DTSTART;VALUE=DATE:20200402
 DTEND;VALUE=DATE:20200406
@@ -185,6 +193,22 @@ DTEND;VALUE=DATE:20200418
 DESCRIPTION:Italy’s biggest Android Event - https://it.droidcon.com/2020
  /it
 LOCATION:Torino
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DevFest
+DTSTART;VALUE=DATE:20200418
+DTEND;VALUE=DATE:20200420
+DESCRIPTION:Conference about Google-related technologies - https://devfest
+ .gdgpisa.it/
+LOCATION:Pisa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Global Azure Milan 2020
+DTSTART;VALUE=DATE:20200424
+DTEND;VALUE=DATE:20200425
+DESCRIPTION:Azure and Cloud Computing - https://join.globalazure.net/event
+ s/48
+LOCATION:Milano
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ItaliaSec

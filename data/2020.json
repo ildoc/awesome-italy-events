@@ -168,6 +168,14 @@
         "endDate": "2020-04-02"
     },
     {
+        "title": "BeConnected Day 2020",
+        "url": "https://www.eventbrite.it/e/registrazione-beconnected-day-2020-92290708995",
+        "description": "Intelligent Communications e Modern Workplace",
+        "location": "Milano",
+        "startDate": "2020-04-02",
+        "endDate": "2020-04-02"
+    },
+    {
         "title": "PyCon XI",
         "url": "https://www.pycon.it/",
         "description": "Python's national conference",
@@ -190,6 +198,22 @@
         "location": "Torino",
         "startDate": "2020-04-16",
         "endDate": "2020-04-17"
+    },
+    {
+        "title": "DevFest",
+        "url": "https://devfest.gdgpisa.it/",
+        "description": "Conference about Google-related technologies",
+        "location": "Pisa",
+        "startDate": "2020-04-18",
+        "endDate": "2020-04-19"
+    },
+    {
+        "title": "Global Azure Milan 2020",
+        "url": "https://join.globalazure.net/events/48",
+        "description": "Azure and Cloud Computing",
+        "location": "Milano",
+        "startDate": "2020-04-24",
+        "endDate": "2020-04-24"
     },
     {
         "title": "ItaliaSec",
