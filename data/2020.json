@@ -43,7 +43,7 @@
         "title": "Global Game Jam",
         "url": "https://globalgamejam.org/",
         "description": "Get together and create games in one weekend",
-        "location": "Milano",
+        "location": "Multiple locations",
         "startDate": "2020-01-31",
         "endDate": "2020-02-02"
     },
@@ -64,6 +64,14 @@
         "endDate": "2020-02-07"
     },
     {
+        "title": "ITASEC 2020",
+        "url": "https://itasec.it/",
+        "description": "Cybersecurity italian conference",
+        "location": "Ancona",
+        "startDate": "2020-02-04",
+        "endDate": "2020-02-07"
+    },
+    {
         "title": "Global Power Platform Bootcamp 2020",
         "url": "https://www.eventbrite.it/e/biglietti-global-power-platform-bootcamp-2020-milan-88686085469",
         "description": "Microsoft’s Power Platform focused event",
@@ -76,8 +84,8 @@
         "url": "https://rome.serverlessdays.io/",
         "description": "Developer-oriented conference about serverless technologies",
         "location": "Milano",
-        "startDate": "2020-02-20",
-        "endDate": "2020-02-20"
+        "startDate": "2020-02-21",
+        "endDate": "2020-02-21"
     },
     {
         "title": "A4I Agile for Innovation",
