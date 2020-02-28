@@ -360,6 +360,14 @@
         "endDate": "2020-10-16"
     },
     {
+        "title": "RustLab 2020",
+        "url": "https://www.rustlab.it/",
+        "description": "The unique Italian conference about Rust",
+        "location": "Firenze",
+        "startDate": "2020-10-16",
+        "endDate": "2020-10-17"
+    },
+    {
         "title": "GoLab",
         "url": "https://golab.io/",
         "description": "The first Italian conference on Go",
