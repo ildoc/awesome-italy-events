@@ -118,7 +118,7 @@ DESCRIPTION:Hackathon for teams - https://picampus.it/pi-day-2020/
 LOCATION:Roma
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CSSDay
+SUMMARY:CSSDay 2020
 DTSTART;VALUE=DATE:20200313
 DTEND;VALUE=DATE:20200314
 DESCRIPTION:Frontend developers and designers dedicated conference - https
