@@ -111,6 +111,13 @@ DESCRIPTION:Human side of Agile - https://agilemovement.it/agilepeoplecamp
 LOCATION:Montegrotto Terme (PD)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pi Day HackParty
+DTSTART;VALUE=DATE:20200313
+DTEND;VALUE=DATE:20200314
+DESCRIPTION:Hackathon for teams - https://picampus.it/pi-day-2020/
+LOCATION:Roma
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CSSDay
 DTSTART;VALUE=DATE:20200313
 DTEND;VALUE=DATE:20200314
@@ -156,6 +163,14 @@ DTEND;VALUE=DATE:20200329
 DESCRIPTION:Individuals and Interactions Over Processes And Tools - https:
  //www.agilepeopleday.com/
 LOCATION:Bologna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:neo4j GraphTour
+DTSTART;VALUE=DATE:20200331
+DTEND;VALUE=DATE:20200401
+DESCRIPTION:Full day of sessions on graph technology - https://neo4j.com/g
+ raphtour/rome/
+LOCATION:Roma
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ruby Day
@@ -292,6 +307,13 @@ DTEND;VALUE=DATE:20200614
 DESCRIPTION:Italian C++ conference - https://www.italiancpp.org/event/itcp
  pcon20/
 LOCATION:Roma
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IHC 2020
+DTSTART;VALUE=DATE:20200729
+DTEND;VALUE=DATE:20200703
+DESCRIPTION:Biennial italian hacker camp - https://www.ihc.camp/2020/
+LOCATION:Padova
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile Business Day

@@ -112,6 +112,14 @@
         "endDate": "2020-03-08"
     },
     {
+        "title": "Pi Day HackParty",
+        "url": "https://picampus.it/pi-day-2020/",
+        "description": "Hackathon for teams",
+        "location": "Roma",
+        "startDate": "2020-03-13",
+        "endDate": "2020-03-13"
+    },
+    {
         "title": "CSSDay",
         "url": "https://2020.cssday.it/",
         "description": "Frontend developers and designers dedicated conference",
@@ -158,6 +166,14 @@
         "location": "Bologna",
         "startDate": "2020-03-28",
         "endDate": "2020-03-28"
+    },
+    {
+        "title": "neo4j GraphTour",
+        "url": "https://neo4j.com/graphtour/rome/",
+        "description": "Full day of sessions on graph technology",
+        "location": "Roma",
+        "startDate": "2020-03-31",
+        "endDate": "2020-03-31"
     },
     {
         "title": "Ruby Day",
@@ -302,6 +318,14 @@
         "location": "Roma",
         "startDate": "2020-06-13",
         "endDate": "2020-06-13"
+    },
+    {
+        "title": "IHC 2020",
+        "url": "https://www.ihc.camp/2020/",
+        "description": "Biennial italian hacker camp",
+        "location": "Padova",
+        "startDate": "2020-07-29",
+        "endDate": "2020-07-02"
     },
     {
         "title": "Agile Business Day",
