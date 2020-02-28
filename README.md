@@ -96,6 +96,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 
 ## October
 - 16 - [ReactJSDay](http://reactjsday.it/) - Verona - React's national conference.
+- 16-17 - [RustLab 2020](https://www.rustlab.it/) - Firenze - The unique Italian conference about Rust.
 - 18-20 - [GoLab](https://golab.io/) - Firenze - The first Italian conference on Go.
 - 22-23 - [ContainerDay](https://www.containerday.it/) - Bologna - The italian conference dedicated to virtualization best-practices.
 
