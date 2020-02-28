@@ -272,6 +272,14 @@
         "endDate": "2020-06-05"
     },
     {
+        "title": "Coderful",
+        "url": "https://www.coderful.io/",
+        "description": "Frontend conference",
+        "location": "Catania",
+        "startDate": "2020-06-06",
+        "endDate": "2020-06-06"
+    },
+    {
         "title": "Angular Day",
         "url": "https://2020.angularday.it/",
         "description": "Angular's national conference",
