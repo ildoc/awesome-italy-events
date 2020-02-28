@@ -280,6 +280,14 @@
         "endDate": "2020-05-23"
     },
     {
+        "title": "eRum 2020",
+        "url": "https://2020.erum.io/",
+        "description": "Biennial european R users meeting",
+        "location": "Milano",
+        "startDate": "2020-05-27",
+        "endDate": "2020-05-30"
+    },
+    {
         "title": "Serverless Days",
         "url": "https://milan.serverlessdays.io/",
         "description": "Developer-oriented conference about serverless technologies",
@@ -350,6 +358,14 @@
         "location": "Verona",
         "startDate": "2020-10-16",
         "endDate": "2020-10-16"
+    },
+    {
+        "title": "GoLab",
+        "url": "https://golab.io/",
+        "description": "The first Italian conference on Go",
+        "location": "Firenze",
+        "startDate": "2020-10-18",
+        "endDate": "2020-10-20"
     },
     {
         "title": "ContainerDay",
