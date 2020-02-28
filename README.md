@@ -51,6 +51,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 4 - [A4I Agile for Innovation](https://www.agileforinnovation.com/) - Milano - How Agile concept is evolving in IT and more.
 - 5-6 - [Incontro DevOps](https://2020.incontrodevops.it/) - Bologna - 2-day conference about DevOps.
 - 6-8 - [Agile People Camp](https://agilemovement.it/agilepeoplecamp/) - Montegrotto Terme (PD) - Human side of Agile.
+- 13 - [Pi Day HackParty](https://picampus.it/pi-day-2020/) - Roma - Hackathon for teams.
 - 13 - [CSSDay](https://2020.cssday.it/) - Faenza (RA) - Frontend developers and designers dedicated conference.
 - 13-14 - [QtDay 2020](https://www.qtday.it/) - Firenze - The unique Italian conference about Qt.
 - 19 - [CloudConf 2020](https://2020.cloudconf.it/) - Torino - European most important conference about the cloud.
