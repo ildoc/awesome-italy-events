@@ -192,6 +192,14 @@
         "endDate": "2020-04-03"
     },
     {
+        "title": "Code Beam Lite",
+        "url": "https://codesync.global/conferences/code-beam-lite-italy-2020/",
+        "description": "Conference about the Erlang ecosystem",
+        "location": "Bologna",
+        "startDate": "2020-04-06",
+        "endDate": "2020-04-06"
+    },
+    {
         "title": "DroidCon",
         "url": "https://it.droidcon.com/2020/it",
         "description": "Italy’s biggest Android Event",

@@ -187,6 +187,14 @@ DESCRIPTION:Vue dedicated conference - https://2020.vueday.it/
 LOCATION:Verona
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Code Beam Lite
+DTSTART;VALUE=DATE:20200406
+DTEND;VALUE=DATE:20200407
+DESCRIPTION:Conference about the Erlang ecosystem - https://codesync.globa
+ l/conferences/code-beam-lite-italy-2020/
+LOCATION:Bologna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DroidCon
 DTSTART;VALUE=DATE:20200416
 DTEND;VALUE=DATE:20200418
