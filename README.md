@@ -77,6 +77,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 
 ## June
 - 5 - [Serverless Days](https://milan.serverlessdays.io/) - Milano - Developer-oriented conference about serverless technologies.
+- 6 - [Coderful](https://www.coderful.io/) - Catania - Frontend conference.
 - 11-12 - [Angular Day](https://2020.angularday.it/) - Verona - Angular's national conference.
 - 11-12 - [PGDay.IT](https://2020.pgday.it) - Bergamo - PostgreSQL Italian conference.
 - 13 - [Italian C++ Conference](https://www.italiancpp.org/event/itcppcon20/) - Roma - Italian C++ conference.
