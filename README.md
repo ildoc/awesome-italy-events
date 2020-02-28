@@ -81,6 +81,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 13 - [Italian C++ Conference](https://www.italiancpp.org/event/itcppcon20/) - Roma - Italian C++ conference.
 
 ## July
+- 9-12 - [Hackmeeting 2020](https://www.hackmeeting.org/hackit20/) - Roma - Incontro annuale delle controculture digitali italiane.
 
 ## August
 
