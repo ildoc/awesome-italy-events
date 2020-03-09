@@ -71,6 +71,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 23 - [Agile Venture Vimercate](https://agilemovement.it/2019/11/01/agile-venture-vimercate-2020/) - Vimercate - The agile way to testing.
 - 27-30 - [eRum 2020](https://2020.erum.io/) - Milano - Biennial european R users meeting.
 - 30 - [Agile People Day](https://www.agilepeopleday.com/) - Bologna - Individuals and Interactions Over Processes And Tools.
+- 30 - [HackInBo](https://www.hackinbo.it/) - Bologna - Free INFOSEC event.
 
 ## June
 - 5 - [Serverless Days](https://milan.serverlessdays.io/) - Milano - Developer-oriented conference about serverless technologies.
