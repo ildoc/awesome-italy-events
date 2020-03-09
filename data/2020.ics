@@ -95,52 +95,6 @@ DESCRIPTION:How Agile concept is evolving in IT and more - https://www.agi
 LOCATION:Milano
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Incontro DevOps
-DTSTART;VALUE=DATE:20200305
-DTEND;VALUE=DATE:20200307
-DESCRIPTION:2-day conference about DevOps - https://2020.incontrodevops.it
- /
-LOCATION:Bologna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agile People Camp
-DTSTART;VALUE=DATE:20200306
-DTEND;VALUE=DATE:20200309
-DESCRIPTION:Human side of Agile - https://agilemovement.it/agilepeoplecamp
- /
-LOCATION:Montegrotto Terme (PD)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pi Day HackParty
-DTSTART;VALUE=DATE:20200313
-DTEND;VALUE=DATE:20200314
-DESCRIPTION:Hackathon for teams - https://picampus.it/pi-day-2020/
-LOCATION:Roma
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CSSDay 2020
-DTSTART;VALUE=DATE:20200313
-DTEND;VALUE=DATE:20200314
-DESCRIPTION:Frontend developers and designers dedicated conference - https
- ://2020.cssday.it/
-LOCATION:Faenza (RA)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:QtDay 2020
-DTSTART;VALUE=DATE:20200313
-DTEND;VALUE=DATE:20200315
-DESCRIPTION:The unique Italian conference about Qt - https://www.qtday.it/
-LOCATION:Firenze
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CloudConf 2020
-DTSTART;VALUE=DATE:20200319
-DTEND;VALUE=DATE:20200320
-DESCRIPTION:European most important conference about the cloud - https://2
- 020.cloudconf.it/
-LOCATION:Torino
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:European Immersive Computing Summit 2020
 DTSTART;VALUE=DATE:20200325
 DTEND;VALUE=DATE:20200327
@@ -149,28 +103,19 @@ DESCRIPTION:The European Summit on Emerging Technologies - https://eicsumm
 LOCATION:Milano
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Codemotion
-DTSTART;VALUE=DATE:20200327
-DTEND;VALUE=DATE:20200329
-DESCRIPTION:Biggest tech conference in Italy - https://events.codemotion.c
- om/conferences/rome/2020/
-LOCATION:Roma
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agile People Day
-DTSTART;VALUE=DATE:20200328
-DTEND;VALUE=DATE:20200329
-DESCRIPTION:Individuals and Interactions Over Processes And Tools - https:
- //www.agilepeopleday.com/
-LOCATION:Bologna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:neo4j GraphTour
 DTSTART;VALUE=DATE:20200331
 DTEND;VALUE=DATE:20200401
 DESCRIPTION:Full day of sessions on graph technology - https://neo4j.com/g
  raphtour/rome/
 LOCATION:Roma
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COBOL Day
+DTSTART;VALUE=DATE:20200401
+DTEND;VALUE=DATE:20200402
+DESCRIPTION:COBOL dedicated conference - https://2020.cobolday.it/
+LOCATION:Verona
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ruby Day
@@ -188,13 +133,6 @@ DESCRIPTION:Intelligent Communications e Modern Workplace - https://www.ev
 LOCATION:Milano
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PyCon XI
-DTSTART;VALUE=DATE:20200402
-DTEND;VALUE=DATE:20200406
-DESCRIPTION:Python's national conference - https://www.pycon.it/
-LOCATION:Firenze
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:VueDay
 DTSTART;VALUE=DATE:20200403
 DTEND;VALUE=DATE:20200404
@@ -208,14 +146,6 @@ DTEND;VALUE=DATE:20200407
 DESCRIPTION:Conference about the Erlang ecosystem - https://codesync.globa
  l/conferences/code-beam-lite-italy-2020/
 LOCATION:Bologna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DroidCon
-DTSTART;VALUE=DATE:20200416
-DTEND;VALUE=DATE:20200418
-DESCRIPTION:Italy’s biggest Android Event - https://it.droidcon.com/2020
- /it
-LOCATION:Torino
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DevFest
@@ -234,6 +164,14 @@ DESCRIPTION:Azure and Cloud Computing - https://join.globalazure.net/event
 LOCATION:Milano
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Incontro DevOps
+DTSTART;VALUE=DATE:20200427
+DTEND;VALUE=DATE:20200429
+DESCRIPTION:2-day conference about DevOps - https://2020.incontrodevops.it
+ /
+LOCATION:Bologna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ItaliaSec
 DTSTART;VALUE=DATE:20200428
 DTEND;VALUE=DATE:20200430
@@ -247,6 +185,13 @@ DTSTART;VALUE=DATE:20200512
 DTEND;VALUE=DATE:20200514
 DESCRIPTION:JavaScript dedicated conference - https://2020.jsday.it/
 LOCATION:Verona
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pi Day HackParty
+DTSTART;VALUE=DATE:20200514
+DTEND;VALUE=DATE:20200515
+DESCRIPTION:Hackathon for teams - https://picampus.it/pi-day-2020/
+LOCATION:Roma
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHP Day
@@ -279,6 +224,14 @@ DESCRIPTION:Biennial european R users meeting - https://2020.erum.io/
 LOCATION:Milano
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Agile People Day
+DTSTART;VALUE=DATE:20200530
+DTEND;VALUE=DATE:20200531
+DESCRIPTION:Individuals and Interactions Over Processes And Tools - https:
+ //www.agilepeopleday.com/
+LOCATION:Bologna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Serverless Days
 DTSTART;VALUE=DATE:20200605
 DTEND;VALUE=DATE:20200606
@@ -292,6 +245,14 @@ DTSTART;VALUE=DATE:20200606
 DTEND;VALUE=DATE:20200607
 DESCRIPTION:Frontend conference - https://www.coderful.io/
 LOCATION:Catania
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codemotion
+DTSTART;VALUE=DATE:20200611
+DTEND;VALUE=DATE:20200613
+DESCRIPTION:Biggest tech conference in Italy - https://events.codemotion.c
+ om/conferences/rome/2020/
+LOCATION:Roma
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Angular Day
@@ -314,6 +275,22 @@ DTEND;VALUE=DATE:20200614
 DESCRIPTION:Italian C++ conference - https://www.italiancpp.org/event/itcp
  pcon20/
 LOCATION:Roma
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CloudConf 2020
+DTSTART;VALUE=DATE:20200618
+DTEND;VALUE=DATE:20200619
+DESCRIPTION:European most important conference about the cloud - https://2
+ 020.cloudconf.it/
+LOCATION:Torino
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSSDay 2020
+DTSTART;VALUE=DATE:20200619
+DTEND;VALUE=DATE:20200621
+DESCRIPTION:Frontend developers and designers dedicated conference - https
+ ://2020.cssday.it/
+LOCATION:Faenza (RA)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hackmeeting
@@ -346,6 +323,14 @@ DESCRIPTION:Cybersecurity convention - https://www.romhack.io/
 LOCATION:Roma
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Agile People Camp
+DTSTART;VALUE=DATE:20201009
+DTEND;VALUE=DATE:20201012
+DESCRIPTION:Human side of Agile - https://agilemovement.it/agilepeoplecamp
+ /
+LOCATION:Montegrotto Terme (PD)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ReactJSDay
 DTSTART;VALUE=DATE:20201016
 DTEND;VALUE=DATE:20201017
@@ -374,5 +359,27 @@ DTEND;VALUE=DATE:20201024
 DESCRIPTION:The italian conference dedicated to virtualization best-practi
  ces - https://www.containerday.it/
 LOCATION:Bologna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PyCon XI
+DTSTART;VALUE=DATE:20201105
+DTEND;VALUE=DATE:20201109
+DESCRIPTION:Python's national conference - https://www.pycon.it/
+LOCATION:Firenze
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:QtDay 2020
+DTSTART;VALUE=DATE:20201120
+DTEND;VALUE=DATE:20201122
+DESCRIPTION:The unique Italian conference about Qt - https://www.qtday.it/
+LOCATION:Firenze
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DroidCon
+DTSTART;VALUE=DATE:20201127
+DTEND;VALUE=DATE:20201129
+DESCRIPTION:Italy’s biggest Android Event - https://it.droidcon.com/2020
+ /it
+LOCATION:Torino
 END:VEVENT
 END:VCALENDAR

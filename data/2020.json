@@ -96,54 +96,6 @@
         "endDate": "2020-03-04"
     },
     {
-        "title": "Incontro DevOps",
-        "url": "https://2020.incontrodevops.it/",
-        "description": "2-day conference about DevOps",
-        "location": "Bologna",
-        "startDate": "2020-03-05",
-        "endDate": "2020-03-06"
-    },
-    {
-        "title": "Agile People Camp",
-        "url": "https://agilemovement.it/agilepeoplecamp/",
-        "description": "Human side of Agile",
-        "location": "Montegrotto Terme (PD)",
-        "startDate": "2020-03-06",
-        "endDate": "2020-03-08"
-    },
-    {
-        "title": "Pi Day HackParty",
-        "url": "https://picampus.it/pi-day-2020/",
-        "description": "Hackathon for teams",
-        "location": "Roma",
-        "startDate": "2020-03-13",
-        "endDate": "2020-03-13"
-    },
-    {
-        "title": "CSSDay 2020",
-        "url": "https://2020.cssday.it/",
-        "description": "Frontend developers and designers dedicated conference",
-        "location": "Faenza (RA)",
-        "startDate": "2020-03-13",
-        "endDate": "2020-03-13"
-    },
-    {
-        "title": "QtDay 2020",
-        "url": "https://www.qtday.it/",
-        "description": "The unique Italian conference about Qt",
-        "location": "Firenze",
-        "startDate": "2020-03-13",
-        "endDate": "2020-03-14"
-    },
-    {
-        "title": "CloudConf 2020",
-        "url": "https://2020.cloudconf.it/",
-        "description": "European most important conference about the cloud",
-        "location": "Torino",
-        "startDate": "2020-03-19",
-        "endDate": "2020-03-19"
-    },
-    {
         "title": "European Immersive Computing Summit 2020",
         "url": "https://eicsummit.com/",
         "description": "The European Summit on Emerging Technologies",
@@ -152,28 +104,20 @@
         "endDate": "2020-03-26"
     },
     {
-        "title": "Codemotion",
-        "url": "https://events.codemotion.com/conferences/rome/2020/",
-        "description": "Biggest tech conference in Italy",
-        "location": "Roma",
-        "startDate": "2020-03-27",
-        "endDate": "2020-03-28"
-    },
-    {
-        "title": "Agile People Day",
-        "url": "https://www.agilepeopleday.com/",
-        "description": "Individuals and Interactions Over Processes And Tools",
-        "location": "Bologna",
-        "startDate": "2020-03-28",
-        "endDate": "2020-03-28"
-    },
-    {
         "title": "neo4j GraphTour",
         "url": "https://neo4j.com/graphtour/rome/",
         "description": "Full day of sessions on graph technology",
         "location": "Roma",
         "startDate": "2020-03-31",
         "endDate": "2020-03-31"
+    },
+    {
+        "title": "COBOL Day",
+        "url": "https://2020.cobolday.it/",
+        "description": "COBOL dedicated conference",
+        "location": "Verona",
+        "startDate": "2020-04-01",
+        "endDate": "2020-04-01"
     },
     {
         "title": "Ruby Day",
@@ -192,14 +136,6 @@
         "endDate": "2020-04-02"
     },
     {
-        "title": "PyCon XI",
-        "url": "https://www.pycon.it/",
-        "description": "Python's national conference",
-        "location": "Firenze",
-        "startDate": "2020-04-02",
-        "endDate": "2020-04-05"
-    },
-    {
         "title": "VueDay",
         "url": "https://2020.vueday.it/",
         "description": "Vue dedicated conference",
@@ -214,14 +150,6 @@
         "location": "Bologna",
         "startDate": "2020-04-06",
         "endDate": "2020-04-06"
-    },
-    {
-        "title": "DroidCon",
-        "url": "https://it.droidcon.com/2020/it",
-        "description": "Italy’s biggest Android Event",
-        "location": "Torino",
-        "startDate": "2020-04-16",
-        "endDate": "2020-04-17"
     },
     {
         "title": "DevFest",
@@ -240,6 +168,14 @@
         "endDate": "2020-04-24"
     },
     {
+        "title": "Incontro DevOps",
+        "url": "https://2020.incontrodevops.it/",
+        "description": "2-day conference about DevOps",
+        "location": "Bologna",
+        "startDate": "2020-04-27",
+        "endDate": "2020-04-28"
+    },
+    {
         "title": "ItaliaSec",
         "url": "https://cyberseries.io/italiasec/",
         "description": "This groundbreaking summit is designed for senior security leaders",
@@ -254,6 +190,14 @@
         "location": "Verona",
         "startDate": "2020-05-12",
         "endDate": "2020-05-13"
+    },
+    {
+        "title": "Pi Day HackParty",
+        "url": "https://picampus.it/pi-day-2020/",
+        "description": "Hackathon for teams",
+        "location": "Roma",
+        "startDate": "2020-05-14",
+        "endDate": "2020-05-14"
     },
     {
         "title": "PHP Day",
@@ -288,6 +232,14 @@
         "endDate": "2020-05-30"
     },
     {
+        "title": "Agile People Day",
+        "url": "https://www.agilepeopleday.com/",
+        "description": "Individuals and Interactions Over Processes And Tools",
+        "location": "Bologna",
+        "startDate": "2020-05-30",
+        "endDate": "2020-05-30"
+    },
+    {
         "title": "Serverless Days",
         "url": "https://milan.serverlessdays.io/",
         "description": "Developer-oriented conference about serverless technologies",
@@ -302,6 +254,14 @@
         "location": "Catania",
         "startDate": "2020-06-06",
         "endDate": "2020-06-06"
+    },
+    {
+        "title": "Codemotion",
+        "url": "https://events.codemotion.com/conferences/rome/2020/",
+        "description": "Biggest tech conference in Italy",
+        "location": "Roma",
+        "startDate": "2020-06-11",
+        "endDate": "2020-06-12"
     },
     {
         "title": "Angular Day",
@@ -326,6 +286,22 @@
         "location": "Roma",
         "startDate": "2020-06-13",
         "endDate": "2020-06-13"
+    },
+    {
+        "title": "CloudConf 2020",
+        "url": "https://2020.cloudconf.it/",
+        "description": "European most important conference about the cloud",
+        "location": "Torino",
+        "startDate": "2020-06-18",
+        "endDate": "2020-06-18"
+    },
+    {
+        "title": "CSSDay 2020",
+        "url": "https://2020.cssday.it/",
+        "description": "Frontend developers and designers dedicated conference",
+        "location": "Faenza (RA)",
+        "startDate": "2020-06-19",
+        "endDate": "2020-06-20"
     },
     {
         "title": "Hackmeeting",
@@ -360,6 +336,14 @@
         "endDate": "2020-09-26"
     },
     {
+        "title": "Agile People Camp",
+        "url": "https://agilemovement.it/agilepeoplecamp/",
+        "description": "Human side of Agile",
+        "location": "Montegrotto Terme (PD)",
+        "startDate": "2020-10-09",
+        "endDate": "2020-10-11"
+    },
+    {
         "title": "ReactJSDay",
         "url": "http://reactjsday.it/",
         "description": "React's national conference",
@@ -390,5 +374,29 @@
         "location": "Bologna",
         "startDate": "2020-10-22",
         "endDate": "2020-10-23"
+    },
+    {
+        "title": "PyCon XI",
+        "url": "https://www.pycon.it/",
+        "description": "Python's national conference",
+        "location": "Firenze",
+        "startDate": "2020-11-05",
+        "endDate": "2020-11-08"
+    },
+    {
+        "title": "QtDay 2020",
+        "url": "https://www.qtday.it/",
+        "description": "The unique Italian conference about Qt",
+        "location": "Firenze",
+        "startDate": "2020-11-20",
+        "endDate": "2020-11-21"
+    },
+    {
+        "title": "DroidCon",
+        "url": "https://it.droidcon.com/2020/it",
+        "description": "Italy’s biggest Android Event",
+        "location": "Torino",
+        "startDate": "2020-11-27",
+        "endDate": "2020-11-28"
     }
 ]
