@@ -316,6 +316,14 @@ DESCRIPTION:Italian C++ conference - https://www.italiancpp.org/event/itcp
 LOCATION:Roma
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hackmeeting
+DTSTART;VALUE=DATE:20200709
+DTEND;VALUE=DATE:20200713
+DESCRIPTION:Annual meeting of Italian digital countercultures - https://ww
+ w.hackmeeting.org/hackit20/
+LOCATION:Roma
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:IHC 2020
 DTSTART;VALUE=DATE:20200729
 DTEND;VALUE=DATE:20200703
