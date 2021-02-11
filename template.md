@@ -10,7 +10,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 Available data format: [json](data/20xx.json) - [ics](data/20xx.ics)
 
-Editions: [2019](archive/2019.md) [2020](README.md) [2021](2021.md)
+Editions: [2019](archive/2019.md) [2020](archive/2020.md) [2021](README.md) [2022](2022.md)
 
 ---
 
