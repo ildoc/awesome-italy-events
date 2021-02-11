@@ -64,7 +64,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 - 25 - [RomHack](https://www.romhack.io/) - Roma - Cybersecurity convention.
 
 ## October
-- 27-28 - [ItaliaSec](https://italy.cyberseries.io/) - Milano - This groundbreaking summit is designed for senior security leaders. 
+- 27-28 - [ItaliaSec](https://italy.cyberseries.io/) - Milano - This groundbreaking summit is designed for senior security leaders.
 
 ## November
 
