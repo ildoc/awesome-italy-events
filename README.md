@@ -35,6 +35,7 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 ## January
 
 ## February
+- 11-12 - [Shipping 4.0](https://shipping-40.sharevent.it/) - Online - Technology improvements in shipping sector.
 
 ## March
 - 23-25 - [Codemotion Online tech conference 2021](https://events.codemotion.com/conferences/online/2021/online-tech-conference-italian-edition-spring/) - Online - Biggest tech conference in Italy.
