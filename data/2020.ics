@@ -84,7 +84,7 @@ DTSTART;VALUE=DATE:20200221
 DTEND;VALUE=DATE:20200222
 DESCRIPTION:Developer-oriented conference about serverless technologies - 
  https://rome.serverlessdays.io/
-LOCATION:Milano
+LOCATION:Rome
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A4I Agile for Innovation
@@ -239,6 +239,14 @@ DESCRIPTION:Free INFOSEC event - https://www.hackinbo.it/
 LOCATION:Bologna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SoCraTes IT 2020
+DTSTART;VALUE=DATE:20200604
+DTEND;VALUE=DATE:20200607
+DESCRIPTION:Software Craftsmanship and Testing Conference - http://www.soc
+ rates-conference.it/
+LOCATION:Trento
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Serverless Days
 DTSTART;VALUE=DATE:20200605
 DTEND;VALUE=DATE:20200606
@@ -315,6 +323,14 @@ DESCRIPTION:Biennial italian hacker camp - https://www.ihc.camp/2020/
 LOCATION:Padova
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hackmeeting
+DTSTART;VALUE=DATE:20200910
+DTEND;VALUE=DATE:20200914
+DESCRIPTION:Italian underground digital communities - https://www.hackmeet
+ ing.org/hackit20/
+LOCATION:Roma
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Agile Business Day
 DTSTART;VALUE=DATE:20200911
 DTEND;VALUE=DATE:20200913
@@ -327,6 +343,14 @@ SUMMARY:RomHack
 DTSTART;VALUE=DATE:20200926
 DTEND;VALUE=DATE:20200927
 DESCRIPTION:Cybersecurity convention - https://www.romhack.io/
+LOCATION:Roma
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Level Up
+DTSTART;VALUE=DATE:20200928
+DTEND;VALUE=DATE:20201001
+DESCRIPTION:International developer conference on video games - http://www
+ .lvlup.it/
 LOCATION:Roma
 END:VEVENT
 BEGIN:VEVENT
@@ -360,6 +384,13 @@ DESCRIPTION:The first Italian conference on Go - https://golab.io/
 LOCATION:Firenze
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NG Rome
+DTSTART;VALUE=DATE:20201020
+DTEND;VALUE=DATE:20201021
+DESCRIPTION:Biggest Italian Angular Conference - https://ngrome.io/
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ContainerDay
 DTSTART;VALUE=DATE:20201022
 DTEND;VALUE=DATE:20201024
@@ -373,6 +404,22 @@ DTSTART;VALUE=DATE:20201105
 DTEND;VALUE=DATE:20201109
 DESCRIPTION:Python's national conference - https://www.pycon.it/
 LOCATION:Firenze
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agile Days 2020
+DTSTART;VALUE=DATE:20201113
+DTEND;VALUE=DATE:20201115
+DESCRIPTION:Conference dedicated to Agile Methodologies - https://www.agil
+ eday.it
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Forum Software Industriale
+DTSTART;VALUE=DATE:20201116
+DTEND;VALUE=DATE:20201117
+DESCRIPTION:Software technology evolution in 4.0 industry - https://forums
+ oftwareindustriale.it/
+LOCATION:Milano
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:QtDay 2020

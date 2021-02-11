@@ -1,2 +1,108 @@
 BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Global Game Jam
+DTSTART;VALUE=DATE:20210127
+DTEND;VALUE=DATE:20210201
+DESCRIPTION:Get together and create games in one weekend - https://globalg
+ amejam.org/
+LOCATION:Multiple locations
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shipping 4.0
+DTSTART;VALUE=DATE:20210211
+DTEND;VALUE=DATE:20210213
+DESCRIPTION:Technology improvements in shipping sector - https://shipping-
+ 40.sharevent.it/
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ServerlessDays 2021
+DTSTART;VALUE=DATE:20210221
+DTEND;VALUE=DATE:20210222
+DESCRIPTION:Developer-oriented conference about serverless technologies - 
+ https://rome.serverlessdays.io/
+LOCATION:Rome
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AWS Innovate ML & AI
+DTSTART;VALUE=DATE:20210224
+DTEND;VALUE=DATE:20210225
+DESCRIPTION:AI & Machine Learning with AWS - https://aws.amazon.com/events
+ /aws-innovate/machine-learning/
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microsoft Ignite
+DTSTART;VALUE=DATE:20210302
+DTEND;VALUE=DATE:20210305
+DESCRIPTION:Microsoft annual conference - https://myignite.microsoft.com/h
+ ome
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSSDay 2021
+DTSTART;VALUE=DATE:20210311
+DTEND;VALUE=DATE:20210312
+DESCRIPTION:CSS dedicated conference - https://2021.cssday.it/
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codemotion Online tech conference 2021
+DTSTART;VALUE=DATE:20210323
+DTEND;VALUE=DATE:20210326
+DESCRIPTION:Biggest tech conference in Italy - https://events.codemotion.c
+ om/conferences/online/2021/online-tech-conference-italian-edition-spring/
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ITASEC 21
+DTSTART;VALUE=DATE:20210407
+DTEND;VALUE=DATE:20210410
+DESCRIPTION:Cybersecurity italian conference - https://itasec.it/
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RubyDay 2021
+DTSTART;VALUE=DATE:20210415
+DTEND;VALUE=DATE:20210416
+DESCRIPTION:Ruby's national conference - https://2021.rubyday.it/
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Secsolutionforum
+DTSTART;VALUE=DATE:20210428
+DTEND;VALUE=DATE:20210501
+DESCRIPTION:The digital event for the security industry - https://www.secs
+ olutionforum.it/
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VueDay 2021
+DTSTART;VALUE=DATE:20210429
+DTEND;VALUE=DATE:20210430
+DESCRIPTION:Vue's national conference - https://2021.vueday.it/
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HackInBo
+DTSTART;VALUE=DATE:20210529
+DTEND;VALUE=DATE:20210530
+DESCRIPTION:Free INFOSEC event - https://www.hackinbo.it/
+LOCATION:Bologna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RomHack
+DTSTART;VALUE=DATE:20210925
+DTEND;VALUE=DATE:20210926
+DESCRIPTION:Cybersecurity convention - https://www.romhack.io/
+LOCATION:Roma
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ItaliaSec
+DTSTART;VALUE=DATE:20211027
+DTEND;VALUE=DATE:20211029
+DESCRIPTION:This groundbreaking summit is designed for senior security lea
+ ders - https://italy.cyberseries.io/
+LOCATION:Milano
+END:VEVENT
 END:VCALENDAR

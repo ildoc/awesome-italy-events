@@ -83,7 +83,7 @@
         "title": "ServerlessDays 2020",
         "url": "https://rome.serverlessdays.io/",
         "description": "Developer-oriented conference about serverless technologies",
-        "location": "Milano",
+        "location": "Rome",
         "startDate": "2020-02-21",
         "endDate": "2020-02-21"
     },
@@ -248,6 +248,14 @@
         "endDate": "2020-05-30"
     },
     {
+        "title": "SoCraTes IT 2020",
+        "url": "http://www.socrates-conference.it/",
+        "description": "Software Craftsmanship and Testing Conference",
+        "location": "Trento",
+        "startDate": "2020-06-04",
+        "endDate": "2020-06-06"
+    },
+    {
         "title": "Serverless Days",
         "url": "https://milan.serverlessdays.io/",
         "description": "Developer-oriented conference about serverless technologies",
@@ -328,6 +336,14 @@
         "endDate": "2020-07-02"
     },
     {
+        "title": "Hackmeeting",
+        "url": "https://www.hackmeeting.org/hackit20/",
+        "description": "Italian underground digital communities",
+        "location": "Roma",
+        "startDate": "2020-09-10",
+        "endDate": "2020-09-13"
+    },
+    {
         "title": "Agile Business Day",
         "url": "https://www.agilebusinessday.com/en/agile-business-day-2-2/",
         "description": "The business, techincal and human-side of Agile",
@@ -342,6 +358,14 @@
         "location": "Roma",
         "startDate": "2020-09-26",
         "endDate": "2020-09-26"
+    },
+    {
+        "title": "Level Up",
+        "url": "http://www.lvlup.it/",
+        "description": "International developer conference on video games",
+        "location": "Roma",
+        "startDate": "2020-09-28",
+        "endDate": "2020-09-30"
     },
     {
         "title": "Agile People Camp",
@@ -376,6 +400,14 @@
         "endDate": "2020-10-20"
     },
     {
+        "title": "NG Rome",
+        "url": "https://ngrome.io/",
+        "description": "Biggest Italian Angular Conference",
+        "location": "Online",
+        "startDate": "2020-10-20",
+        "endDate": "2020-10-20"
+    },
+    {
         "title": "ContainerDay",
         "url": "https://www.containerday.it/",
         "description": "The italian conference dedicated to virtualization best-practices",
@@ -390,6 +422,22 @@
         "location": "Firenze",
         "startDate": "2020-11-05",
         "endDate": "2020-11-08"
+    },
+    {
+        "title": "Agile Days 2020",
+        "url": "https://www.agileday.it",
+        "description": "Conference dedicated to Agile Methodologies",
+        "location": "Online",
+        "startDate": "2020-11-13",
+        "endDate": "2020-11-14"
+    },
+    {
+        "title": "Forum Software Industriale",
+        "url": "https://forumsoftwareindustriale.it/",
+        "description": "Software technology evolution in 4.0 industry",
+        "location": "Milano",
+        "startDate": "2020-11-16",
+        "endDate": "2020-11-16"
     },
     {
         "title": "QtDay 2020",
