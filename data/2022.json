@@ -1,1 +1,10 @@
-﻿[]
+﻿[
+    {
+        "title": "PyCon 12",
+        "url": null,
+        "description": "Python's national conference",
+        "location": "Firenze",
+        "startDate": "2022-06-02",
+        "endDate": "2022-06-05"
+    }
+]
