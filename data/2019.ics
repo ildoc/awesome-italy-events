@@ -726,9 +726,10 @@ BEGIN:VEVENT
 SUMMARY:ISF Festival 2019
 DTSTART;VALUE=DATE:20191017
 DTEND;VALUE=DATE:20191019
-DESCRIPTION:Informatics without Borders) conference - https://festival.inf
- ormaticisenzafrontiere.org/?page_id=2
-LOCATION:Rovereto (TN) - Annual ISF (Informatici Senza Frontiere
+DESCRIPTION:Annual ISF (Informatici Senza Frontiere - Informatics without 
+ Borders) conference - https://festival.informaticisenzafrontiere.org/?page
+ _id=2
+LOCATION:Rovereto (TN)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SymphonyDay
